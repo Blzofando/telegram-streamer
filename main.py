@@ -9,8 +9,8 @@ from fastapi.responses import StreamingResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 
-# === CONFIGURAÇÃO DE PERFIL (Sua lógica está perfeita) ===
-PERFIL_ATIVO = "rapido" # Sugestão: 'rapido' é mais estável que 'ultra_rapido' no Render
+# === CONFIGURAÇÃO DE PERFIL (Sua lógica - sem mudança) ===
+PERFIL_ATIVO = "rapido" # Sugestão: 'rapido' é mais estável no Render
 PERFIS = {
     "ultra_rapido": { "CHUNK_SIZE": 1024 * 1024, "MIN_BUFFER": 512 * 1024, "RANGE_CHUNK": 50 * 1024 * 1024, "PREFETCH_CHUNKS": 3 },
     "rapido": { "CHUNK_SIZE": 512 * 1024, "MIN_BUFFER": 256 * 1024, "RANGE_CHUNK": 20 * 1024 * 1024, "PREFETCH_CHUNKS": 2 },
@@ -31,7 +31,7 @@ GRUPO_ALVO = int(os.environ.get("GRUPO_ALVO", 0))
 SESSION_STRING = os.environ.get("TELEGRAM_SESSION_STRING", None)
 
 # --- CORREÇÃO IMPORTANTE ---
-# Removemos a lógica do 'DATA_PATH'.
+# Removemos a lógica do 'DATA_PATH' (Disco Persistente).
 # O script agora espera o mapa na *mesma pasta* que o main.py
 MAPA_PATH = 'mapeamento_aulas.json' 
 # --- FIM DA CORREÇÃO ---
@@ -42,8 +42,8 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
-    "https://SEU-SITE-DO-VERCEL.vercel.app", # <-- MUDE AQUI
-    "*" # Mantenha para testes
+    "https://intelligent-dashboard-rho.vercel.app", # <-- SUA URL DO VERCEL (do seu screenshot)
+    "*"
 ]
 app.add_middleware(
     CORSMiddleware,
@@ -56,7 +56,8 @@ app.add_middleware(
 # === 4. CORREÇÃO: Login com SESSION_STRING (Não interativo) ===
 if not SESSION_STRING:
     print("❌ ERRO CRÍTICO: TELEGRAM_SESSION_STRING não definida no ambiente!")
-    client = TelegramClient('local_session_fail', API_ID, API_HASH) # Vai falhar no Render (o que é bom)
+    # Se a string não for encontrada, o Render vai travar aqui (o que é bom para depurar)
+    raise ValueError("TELEGRAM_SESSION_STRING não pode ser nula no deploy!")
 else:
     print("... Usando SESSION_STRING para login ...")
     client = TelegramClient(sessions.StringSession(SESSION_STRING), API_ID, API_HASH)
@@ -91,10 +92,9 @@ async def startup_event():
 async def shutdown_event():
     await client.disconnect()
 
-# --- O resto do seu código (get_message_cached, prefetch_chunks, stream_generator_with_prefetch, 
-# full_stream_generator, stream_por_codigo, stream_por_id, get_mapeamento, etc.)
-# pode continuar EXATAMENTE IGUAL ao que você me mandou no [Prompt 207].
-# A lógica de 'seek' e 'prefetch' estava correta.
+# --- O resto do seu código (get_message_cached, prefetch_chunks, stream_generator, etc.) ---
+# --- Esta parte está perfeita e não precisa de NENHUMA MUDANÇA ---
+# --- (Cole o resto do seu código de [Prompt 207] aqui) ---
 async def get_message_cached(message_id: int):
     if message_id in mensagens_cache:
         return mensagens_cache[message_id]
@@ -198,11 +198,14 @@ async def stream_por_id(
                 raise HTTPException(416, detail="Range Not Satisfiable")
             parts = range_str.split("-")
             start_byte = int(parts[0]) if parts[0] else 0
+            
+            # --- 7. CORREÇÃO DO 'SEEK' (O BUG DO TRAVAMENTO) ---
             if len(parts) > 1 and parts[1]:
                 end_byte = min(int(parts[1]), video_size - 1)
             else:
-                # CORREÇÃO DO 'SEEK' (O BUG DO TRAVAMENTO)
                 end_byte = min(start_byte + RANGE_CHUNK - 1, video_size - 1)
+            # --- FIM DA CORREÇÃO ---
+            
             content_length = (end_byte - start_byte) + 1
             print(f"📹 ID {message_id}: {start_byte}-{end_byte} ({content_length / (1024*1024):.1f} MB)")
             headers = {

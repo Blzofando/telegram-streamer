@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Aulas - Teste</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 20px;
+        }
+        .sidebar {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        .video-container {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.5em;
+        }
+        .subtitle {
+            color: #999;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .aula-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 2px solid transparent;
+        }
+        .aula-item:hover {
+            background: #f8f9fa;
+            border-color: #667eea;
+        }
+        .aula-item.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        .aula-codigo {
+            font-weight: bold;
+            font-size: 0.85em;
+            color: #667eea;
+        }
+        .aula-item.active .aula-codigo {
+            color: #fff;
+        }
+        .aula-titulo {
+            font-size: 0.9em;
+            margin-top: 3px;
+            color: #333;
+        }
+        .aula-item.active .aula-titulo {
+            color: #fff;
+        }
+        video {
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            background: #000;
+            margin-top: 20px;
+        }
+        .video-info {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .video-info h2 {
+            color: #333;
+            font-size: 1.3em;
+            margin-bottom: 5px;
+        }
+        .video-info .codigo {
+            color: #667eea;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        .stats {
+            display: flex;
+            gap: 15px;
+            margin-top: 10px;
+            font-size: 0.85em;
+            color: #666;
+        }
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar com lista de aulas -->
+        <div class="sidebar">
+            <h1>📚 Lista de Aulas</h1>
+            <p class="subtitle">Clique em uma aula para assistir</p>
+            <div id="aulasList"></div>
+        </div>
+
+        <!-- Área do vídeo -->
+        <div class="video-container">
+            <div id="videoInfo" style="display: none;" class="video-info">
+                <h2 id="videoTitulo"></h2>
+                <p class="codigo" id="videoCodigo"></p>
+                <div class="stats">
+                    <div class="stat-item">📦 <span id="videoTamanho"></span></div>
+                    <div class="stat-item">⏱️ <span id="videoDuracao"></span></div>
+                </div>
+            </div>
+
+            <div id="errorMsg" style="display: none;" class="error"></div>
+            <div id="loadingMsg" class="loading">Selecione uma aula para começar</div>
+
+            <video id="videoPlayer" controls style="display: none;">
+                Seu navegador não suporta a tag de vídeo.
+            </video>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://127.0.0.1:8000';
+        let mapeamento = {};
+        let aulaAtual = null;
+
+        // Carrega o mapeamento ao iniciar
+        async function carregarMapeamento() {
+            try {
+                const response = await fetch(`${API_URL}/mapeamento`);
+                const data = await response.json();
+                mapeamento = data.aulas;
+                
+                renderizarListaAulas();
+            } catch (error) {
+                showError(`Erro ao carregar mapeamento: ${error.message}. Execute gerar_mapeamento.py primeiro!`);
+            }
+        }
+
+        function renderizarListaAulas() {
+            const lista = document.getElementById('aulasList');
+            
+            // Ordena as aulas pelo código (F001, F002, etc)
+            const aulasOrdenadas = Object.entries(mapeamento).sort((a, b) => {
+                const numA = parseInt(a[0].replace('#F', ''));
+                const numB = parseInt(b[0].replace('#F', ''));
+                return numA - numB;
+            });
+
+            lista.innerHTML = aulasOrdenadas.map(([codigo, dados]) => `
+                <div class="aula-item" onclick="carregarAula('${codigo}')">
+                    <div class="aula-codigo">${codigo}</div>
+                    <div class="aula-titulo">${dados.titulo_completo}</div>
+                </div>
+            `).join('');
+
+            document.getElementById('loadingMsg').textContent = 
+                `${aulasOrdenadas.length} aulas carregadas. Selecione uma para assistir.`;
+        }
+
+        function carregarAula(codigo) {
+            // Remove seleção anterior
+            document.querySelectorAll('.aula-item').forEach(item => {
+                item.classList.remove('active');
+            });
+
+            // Adiciona seleção atual
+            event.currentTarget.classList.add('active');
+
+            aulaAtual = codigo;
+            const dados = mapeamento[codigo];
+
+            // Mostra loading
+            document.getElementById('loadingMsg').style.display = 'block';
+            document.getElementById('loadingMsg').textContent = `Carregando ${codigo}...`;
+            document.getElementById('errorMsg').style.display = 'none';
+            document.getElementById('videoPlayer').style.display = 'none';
+            document.getElementById('videoInfo').style.display = 'none';
+
+            // Atualiza informações do vídeo
+            document.getElementById('videoTitulo').textContent = dados.titulo_completo;
+            document.getElementById('videoCodigo').textContent = codigo;
+            document.getElementById('videoTamanho').textContent = `${dados.tamanho_mb} MB`;
+            
+            const minutos = Math.floor(dados.duracao / 60);
+            const segundos = dados.duracao % 60;
+            document.getElementById('videoDuracao').textContent = 
+                `${minutos}:${segundos.toString().padStart(2, '0')}`;
+
+            // Carrega o vídeo usando o CÓDIGO (não o ID!)
+            const videoUrl = `${API_URL}/stream/code/${codigo.replace('#', '')}`;
+            const videoPlayer = document.getElementById('videoPlayer');
+            
+            videoPlayer.src = videoUrl;
+            videoPlayer.load();
+
+            videoPlayer.onloadedmetadata = () => {
+                document.getElementById('loadingMsg').style.display = 'none';
+                document.getElementById('videoInfo').style.display = 'block';
+                document.getElementById('videoPlayer').style.display = 'block';
+                videoPlayer.play();
+            };
+
+            videoPlayer.onerror = () => {
+                showError(`Erro ao carregar o vídeo ${codigo}. Verifique o servidor.`);
+                document.getElementById('loadingMsg').style.display = 'none';
+            };
+        }
+
+        function showError(message) {
+            const errorDiv = document.getElementById('errorMsg');
+            errorDiv.textContent = message;
+            errorDiv.style.display = 'block';
+            document.getElementById('loadingMsg').style.display = 'none';
+        }
+
+        // Inicia o carregamento
+        carregarMapeamento();
+    </script>
+</body>
+</html>
