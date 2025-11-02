@@ -1,0 +1,11 @@
+# Pasta do Ambiente Virtual
+venv/
+__pycache__/
+
+# Arquivos de sessão locais (não precisamos mais, mas é bom ignorar)
+*.session
+*.session-journal
+
+# Arquivos .env
+.env
+.env.local
