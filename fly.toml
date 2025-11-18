@@ -1,0 +1,30 @@
+# fly.toml app configuration file generated for telegram-streamer on 2025-11-02T21:56:49-03:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'telegram-streamer'
+primary_region = 'gru'
+
+[build]
+dockerfile = "Dockerfile"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ['app']
+
+[[http_service.checks]]
+    interval = "15s"       # Tenta a cada 15 segundos
+    timeout = "10s"        # Espera 10s por uma resposta
+    grace_period = "90s"   # <--- PONTO CHAVE: Dá 90 segundos para o app iniciar antes de começar a testar
+    method = "get"
+    path = "/health"       # <--- PONTO CHAVE: Usa seu endpoint /health!
+
+[[vm]]
+  memory = '4gb'
+  cpu_kind = 'shared'
+  cpus = 2

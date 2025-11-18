@@ -4,6 +4,7 @@ import os
 from collections import deque
 from telethon import TelegramClient
 from telethon.tl.types import InputMessagesFilterVideo
+from telethon.sessions import StringSession # <--- ADICIONE ESTA LINHA
 from fastapi import FastAPI, HTTPException, Header, BackgroundTasks
 from fastapi.responses import StreamingResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -50,9 +51,9 @@ print(f"   Chunk: {CHUNK_SIZE / 1024:.0f} KB")
 print(f"   Prefetch: {PREFETCH_CHUNKS} chunks adiantado")
 
 # === CONFIGURAÇÃO ===
-API_ID = 25657270
-API_HASH = 'f2d5b9d5c89471989432ef1c2ee22993'
-SESSION_NAME = 'streamer_session'
+API_ID = int(os.environ['API_ID'])
+API_HASH = os.environ['API_HASH']
+SESSION_STRING = os.environ['TELEGRAM_SESSION_STRING'] # <-- NOVO
 GRUPO_ALVO = -1001573455897
 
 app = FastAPI()
@@ -73,11 +74,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-from telethon.sessions import StringSession
-
-SESSION_STRING = os.getenv("SESSION_STRING")
 client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
-
 
 # === CACHES ===
 mapeamento_cache = None
