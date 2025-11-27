@@ -1,10 +1,15 @@
 import asyncio
+import asyncio
+import os                                  # <--- NOVO
+from dotenv import load_dotenv             # <--- NOVO
 from telethon import TelegramClient
 
-# SUBSTITUA PELOS SEUS DADOS
-API_ID = 25657270                # Coloque seu api_id aqui (como um número, sem aspas)
-API_HASH = 'f2d5b9d5c89471989432ef1c2ee22993'   # Coloque seu api_hash aqui (entre aspas)
-SESSION_NAME = 'streamer_session' # Nome do arquivo de sessão que será criado
+load_dotenv()
+
+# SUBSTITUA PELOS SEUS DADOS (Agora vindos do .env)
+API_ID = int(os.getenv('API_ID'))
+API_HASH = os.getenv('API_HASH')
+SESSION_NAME = 'streamer_session'
 
 async def main():
     print("Iniciando login para criar a sessão...")

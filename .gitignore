@@ -9,3 +9,4 @@ __pycache__/
 # Arquivos .env
 .env
 .env.local
+.streamer_session.session
