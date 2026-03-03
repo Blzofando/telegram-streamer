@@ -1,0 +1,114 @@
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await route.handle(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.app(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 130, in app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise exc
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await app(scope, receive, sender)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 117, in app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await response(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 269, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     with collapse_excgroups():
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |          ~~~~~~~~~~~~~~~~~~^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/contextlib.py", line 162, in __exit__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     self.gen.throw(value)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     ~~~~~~~~~~~~~~^^^^^^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise exc
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 273, in wrap
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await func()
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 256, in stream_response
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send({"type": "http.response.body", "body": chunk, "more_body": True})
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send(message)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send(message)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 161, in _send
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send(message)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 543, in send
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise RuntimeError("Response content longer than Content-Length")
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    | RuntimeError: Response content longer than Content-Length
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    +------------------------------------
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]During handling of the above exception, another exception occurred:
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]Traceback (most recent call last):
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 416, in run_asgi
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    result = await app(  # type: ignore[func-returns-value]
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]        self.scope, self.receive, self.send
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    )
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    ^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    return await self.app(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/applications.py", line 1160, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await super().__call__(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/applications.py", line 113, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 186, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 164, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, _send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/cors.py", line 85, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await app(scope, receive, sender)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 716, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await route.handle(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 130, in app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await app(scope, receive, sender)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 117, in app
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await response(scope, receive, send)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 269, in __call__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    with collapse_excgroups():
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]         ~~~~~~~~~~~~~~~~~~^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/contextlib.py", line 162, in __exit__
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    self.gen.throw(value)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    ~~~~~~~~~~~~~~^^^^^^^
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 273, in wrap
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await func()
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 256, in stream_response
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send({"type": "http.response.body", "body": chunk, "more_body": True})
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send(message)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send(message)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 161, in _send
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send(message)
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 543, in send
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise RuntimeError("Response content longer than Content-Length")
+[2m2026-03-03T17:43:20Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]RuntimeError: Response content longer than Content-Length
+[2m2026-03-03T17:46:54Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Pulling container image registry.fly.io/telegram-streamer@sha256:9440e9fc41d565da6566acbc846930e229bee9d766a83b64e9a226e122bcad21
+[2m2026-03-03T17:46:54Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Successfully prepared image registry.fly.io/telegram-streamer@sha256:9440e9fc41d565da6566acbc846930e229bee9d766a83b64e9a226e122bcad21 (435.407756ms)
+[2m2026-03-03T17:46:55Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Sending signal SIGINT to main child process w/ PID 656
+[2m2026-03-03T17:46:55Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:46:55 +0000] [656] [INFO] Handling signal: int
+[2m2026-03-03T17:46:55Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Configuring firecracker
+[2m2026-03-03T17:46:59Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Sending signal SIGTERM to main child process w/ PID 656
+[2m2026-03-03T17:47:04Z[0m app[90807799a69568] [32mgru[0m [[33mwarn[0m]Virtual machine exited abruptly
+[2m2026-03-03T17:47:04Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026-03-03T17:47:04.971114147 [01KJTCYPJ7AB66RHPA8RC360K8:main] Running Firecracker v1.12.1
+[2m2026-03-03T17:47:04Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026-03-03T17:47:04.971275804 [01KJTCYPJ7AB66RHPA8RC360K8:main] Listening on API socket ("/fc.sock").
+[2m2026-03-03T17:47:05Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Starting init (commit: 350f2667)...
+[2m2026-03-03T17:47:05Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Preparing to run: `gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app --bind 0.0.0.0:8000` as root
+[2m2026-03-03T17:47:05Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m [fly api proxy] listening at /.fly/api
+[2m2026-03-03T17:47:06Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Machine created and started in 11.826s
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[
