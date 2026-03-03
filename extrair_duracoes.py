@@ -17,8 +17,9 @@ SESSION_NAME = 'streamer_session' # Fallback se não usar string session
 
 # Canais conhecidos para facilitar
 CANAIS_PREDEFINIDOS = {
-    "1": {"nome": "LIC", "id": -1001706373944},
-    "2": {"nome": "PBI", "id": -1001573455897}
+    "1": {"nome": "LIC", "id": "-1001706373944"},
+    "2": {"nome": "PBI", "id": "-1001573455897"},
+    "3": {"nome": "CSS", "id": "-1002070133804"}
 }
 
 async def main():
@@ -30,7 +31,7 @@ async def main():
     print("\nEscolha um canal:")
     for key, info in CANAIS_PREDEFINIDOS.items():
         print(f" [{key}] {info['nome']} (ID: {info['id']})")
-    print(" [3] Digitar outro ID manualmente")
+    print(" [4] Digitar outro ID manualmente")
 
     opcao = input("\nOpção: ").strip()
     
@@ -38,9 +39,9 @@ async def main():
     nome_canal = "custom"
 
     if opcao in CANAIS_PREDEFINIDOS:
-        channel_id = CANAIS_PREDEFINIDOS[opcao]['id']
+        channel_id = int(CANAIS_PREDEFINIDOS[opcao]['id'])
         nome_canal = CANAIS_PREDEFINIDOS[opcao]['nome'].lower()
-    elif opcao == "3":
+    elif opcao == "4":
         try:
             inp = input("Digite o ID do canal (ex: -100...): ").strip()
             channel_id = int(inp)

@@ -18,7 +18,7 @@ SESSION_NAME = 'streamer_session'
 CANAIS_CURSOS = {
     "pbi": -1001573455897,      # Seu canal atual de Power BI
     "lic": -1001706373944,     # SUBSTITUA PELO ID DO CANAL DE Licitante Extremo
-    # "js": -1009876543210      # Exemplo para adicionar mais cursos
+    "css": -1002070133804,      # Exemplo para adicionar mais cursos
 }
 
 async def gerar_mapeamento():

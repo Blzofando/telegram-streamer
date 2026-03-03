@@ -3708,5 +3708,1846 @@
     "titulo_completo": "#F01 1 Começando\n\n=1. Módulo 1 - Traçando os seus objetivos",
     "tamanho_mb": 41.17,
     "duracao": 0
+  },
+  "css-F263": {
+    "message_id": 264,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F263 13. Padrão 7-1\n\n15. Extensão - SASS",
+    "tamanho_mb": 69.22,
+    "duracao": 0
+  },
+  "css-F262": {
+    "message_id": 263,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F262 12. Build Compile, Prefix and Compress\n\n15. Extensão - SASS",
+    "tamanho_mb": 188.87,
+    "duracao": 0
+  },
+  "css-F261": {
+    "message_id": 262,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F261 11. Content e If\n\n15. Extensão - SASS",
+    "tamanho_mb": 242.02,
+    "duracao": 0
+  },
+  "css-F260": {
+    "message_id": 261,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F260 10. Extends\n\n15. Extensão - SASS",
+    "tamanho_mb": 113.56,
+    "duracao": 0
+  },
+  "css-F259": {
+    "message_id": 260,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F259 9. Mixins e Includes\n\n15. Extensão - SASS",
+    "tamanho_mb": 111.78,
+    "duracao": 0
+  },
+  "css-F258": {
+    "message_id": 259,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F258 8. Functions\n\n15. Extensão - SASS",
+    "tamanho_mb": 66.11,
+    "duracao": 0
+  },
+  "css-F257": {
+    "message_id": 258,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F257 7. Nesting x Native Nesting\n\n15. Extensão - SASS",
+    "tamanho_mb": 143.33,
+    "duracao": 0
+  },
+  "css-F256": {
+    "message_id": 257,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F256 6. Variáveis\n\n15. Extensão - SASS",
+    "tamanho_mb": 122.78,
+    "duracao": 0
+  },
+  "css-F255": {
+    "message_id": 256,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F255 5. Criando e compilando nosso primeiro código\n\n15. Extensão - SASS",
+    "tamanho_mb": 91.45,
+    "duracao": 0
+  },
+  "css-F254": {
+    "message_id": 255,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F254 4. Instalando o NodeJS, NPM e SASS\n\n15. Extensão - SASS",
+    "tamanho_mb": 60.23,
+    "duracao": 0
+  },
+  "css-F253": {
+    "message_id": 254,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F253 3. O que é NodeJS e o que é NPM\n\n15. Extensão - SASS",
+    "tamanho_mb": 20.02,
+    "duracao": 0
+  },
+  "css-F252": {
+    "message_id": 253,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F252 2. O que é SASS\n\n15. Extensão - SASS",
+    "tamanho_mb": 34.81,
+    "duracao": 0
+  },
+  "css-F251": {
+    "message_id": 252,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F251 1. Apresentação do Módulo\n\n15. Extensão - SASS",
+    "tamanho_mb": 16.57,
+    "duracao": 0
+  },
+  "css-F250": {
+    "message_id": 251,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F250 8. Desafio - Gabarito\n\n14. Metodologia BEM",
+    "tamanho_mb": 272.6,
+    "duracao": 0
+  },
+  "css-F249": {
+    "message_id": 250,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F249 7. Desafio - Apresentação\n\n14. Metodologia BEM",
+    "tamanho_mb": 15.9,
+    "duracao": 0
+  },
+  "css-F248": {
+    "message_id": 249,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F248 6. Exemplo prático\n\n14. Metodologia BEM",
+    "tamanho_mb": 284.58,
+    "duracao": 0
+  },
+  "css-F247": {
+    "message_id": 248,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F247 5. Cuidados e Observações\n\n14. Metodologia BEM",
+    "tamanho_mb": 53.46,
+    "duracao": 0
+  },
+  "css-F246": {
+    "message_id": 247,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F246 4. Vantagens, Desvantagens e Conclusão\n\n14. Metodologia BEM",
+    "tamanho_mb": 94.46,
+    "duracao": 0
+  },
+  "css-F245": {
+    "message_id": 246,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F245 3. Exemplos da Metotologia\n\n14. Metodologia BEM",
+    "tamanho_mb": 54.65,
+    "duracao": 0
+  },
+  "css-F244": {
+    "message_id": 245,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F244 2. Como funciona a Metodologia\n\n14. Metodologia BEM",
+    "tamanho_mb": 83.9,
+    "duracao": 0
+  },
+  "css-F243": {
+    "message_id": 244,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F243 1. Apresentação do Módulo\n\n14. Metodologia BEM",
+    "tamanho_mb": 12.63,
+    "duracao": 0
+  },
+  "css-F242": {
+    "message_id": 243,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F242 1. Apresentação do Módulo\n\n14. Extensão - SASS",
+    "tamanho_mb": 16.57,
+    "duracao": 0
+  },
+  "css-F241": {
+    "message_id": 242,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F241 8. Desafio - Gabarito\n\n13. Metodologia BEM",
+    "tamanho_mb": 272.6,
+    "duracao": 0
+  },
+  "css-F240": {
+    "message_id": 241,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F240 7. Desafio - Apresentação\n\n13. Metodologia BEM",
+    "tamanho_mb": 15.9,
+    "duracao": 0
+  },
+  "css-F239": {
+    "message_id": 240,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F239 6. Exemplo prático\n\n13. Metodologia BEM",
+    "tamanho_mb": 284.58,
+    "duracao": 0
+  },
+  "css-F238": {
+    "message_id": 239,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F238 5. Cuidados e Observações\n\n13. Metodologia BEM",
+    "tamanho_mb": 53.46,
+    "duracao": 0
+  },
+  "css-F237": {
+    "message_id": 238,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F237 5. Cuidados e Observações\n\n13. Metodologia BEM",
+    "tamanho_mb": 53.46,
+    "duracao": 0
+  },
+  "css-F236": {
+    "message_id": 237,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F236 4. Vantagens, Desvantagens e Conclusão\n\n13. Metodologia BEM",
+    "tamanho_mb": 94.46,
+    "duracao": 0
+  },
+  "css-F235": {
+    "message_id": 236,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F235 3. Exemplos da Metotologia\n\n13. Metodologia BEM",
+    "tamanho_mb": 54.65,
+    "duracao": 0
+  },
+  "css-F234": {
+    "message_id": 235,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F234 2. Como funciona a Metodologia\n\n13. Metodologia BEM",
+    "tamanho_mb": 83.9,
+    "duracao": 0
+  },
+  "css-F233": {
+    "message_id": 234,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F233 1. Apresentação do Módulo\n\n13. Metodologia BEM",
+    "tamanho_mb": 12.63,
+    "duracao": 0
+  },
+  "css-F232": {
+    "message_id": 233,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F232 4. Desafio - Gabarito\n\n13. Float no CSS",
+    "tamanho_mb": 214.57,
+    "duracao": 0
+  },
+  "css-F231": {
+    "message_id": 232,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F231 3. Desafio - Construindo um layout com float\n\n13. Float no CSS",
+    "tamanho_mb": 7.37,
+    "duracao": 0
+  },
+  "css-F230": {
+    "message_id": 231,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F230 2. Como usar as propriedades float e clear\n\n13. Float no CSS",
+    "tamanho_mb": 155.59,
+    "duracao": 0
+  },
+  "css-F229": {
+    "message_id": 230,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F229 1. Apresentação do Módulo\n\n13. Float no CSS",
+    "tamanho_mb": 21.22,
+    "duracao": 0
+  },
+  "css-F228": {
+    "message_id": 229,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F228 30. Desafio 2 - Deploy - Colocando a nossa página no ar\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 52.86,
+    "duracao": 0
+  },
+  "css-F227": {
+    "message_id": 228,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F227 29. Desafio 2 - Otimizando a Home da Hashtag\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 529.81,
+    "duracao": 0
+  },
+  "css-F226": {
+    "message_id": 227,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F226 28. Desafio 2 - Finalizando a Navegação Mobile\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 230.16,
+    "duracao": 0
+  },
+  "css-F225": {
+    "message_id": 226,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F225 27. Desafio 2 - Criando a Navegação Mobile\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 296.09,
+    "duracao": 0
+  },
+  "css-F224": {
+    "message_id": 225,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F224 26. Desafio 2 - Finalizando a última Media Query\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 280.9,
+    "duracao": 0
+  },
+  "css-F223": {
+    "message_id": 224,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F223 25. Desafio 2 - Última Media Query para as Seções Diferenciais, O que falam e Na mídia\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 155.49,
+    "duracao": 0
+  },
+  "css-F222": {
+    "message_id": 223,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F222 24. Desafio 2 - Última Media Query para a Seção Hero e Conteúdos\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 171.48,
+    "duracao": 0
+  },
+  "css-F221": {
+    "message_id": 222,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F221 23. Desafio 2 - Finalizando o Layout da Media Query de 767 a 480\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 176.34,
+    "duracao": 0
+  },
+  "css-F220": {
+    "message_id": 221,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F220 22. Desafio 2 - Alterando o Layout da Seção Blog\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 69.31,
+    "duracao": 0
+  },
+  "css-F219": {
+    "message_id": 220,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F219 21. Desafio 2 - Alterando o Layout da Seção Na mídia\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 77.19,
+    "duracao": 0
+  },
+  "css-F218": {
+    "message_id": 219,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F218 20. Desafio 2 - Alterando o Layout da Seção O que falam\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 281.6,
+    "duracao": 0
+  },
+  "css-F217": {
+    "message_id": 218,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F217 19. Desafio 2 - Alterando o Layout da Seção Diferenciais\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 132.26,
+    "duracao": 0
+  },
+  "css-F216": {
+    "message_id": 217,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F216 18. Desafio 2 - Alterando o Layout da Seção Conteúdos Gratuitos\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 167.04,
+    "duracao": 0
+  },
+  "css-F215": {
+    "message_id": 216,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F215 17. Desafio 2 - Alterando o Layout da Seção Hero\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 121.7,
+    "duracao": 0
+  },
+  "css-F214": {
+    "message_id": 215,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F214 16. Desafio 2 - Alterando a página inteira mudando uma única coisa\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 324.51,
+    "duracao": 0
+  },
+  "css-F213": {
+    "message_id": 214,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F213 15. Desafio 2 - Criando a primeira Media Query\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 302.1,
+    "duracao": 0
+  },
+  "css-F212": {
+    "message_id": 213,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F212 14. Desafio 2 - Deixando a Home da Hashtag responsiva\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 47.04,
+    "duracao": 0
+  },
+  "css-F211": {
+    "message_id": 212,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F211 13. Carregamento do CSS e Arquivos de Estilização\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 111.11,
+    "duracao": 0
+  },
+  "css-F210": {
+    "message_id": 211,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F210 12. Lazy Loading\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 91.14,
+    "duracao": 0
+  },
+  "css-F209": {
+    "message_id": 210,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F209 11. Importando Fontes\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 240.92,
+    "duracao": 0
+  },
+  "css-F208": {
+    "message_id": 209,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F208 10. Variáveis no CSS\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 167.2,
+    "duracao": 0
+  },
+  "css-F207": {
+    "message_id": 208,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F207 9. Imagens responsivas - CSS\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 152.93,
+    "duracao": 0
+  },
+  "css-F206": {
+    "message_id": 207,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F206 8. Imagens responsivas - Tag Picture\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 78.03,
+    "duracao": 0
+  },
+  "css-F205": {
+    "message_id": 206,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F205 7. Imagens responsivas - Tag Img - 22\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 126.47,
+    "duracao": 0
+  },
+  "css-F204": {
+    "message_id": 205,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F204 6. O que é DPR\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 62.9,
+    "duracao": 0
+  },
+  "css-F203": {
+    "message_id": 204,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F203 5. Imagens responsivas - Tag Img - 12\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 308.72,
+    "duracao": 0
+  },
+  "css-F202": {
+    "message_id": 203,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F202 4. Escolhendo as Media Queries\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 95.17,
+    "duracao": 0
+  },
+  "css-F201": {
+    "message_id": 202,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F201 3. Desktop x Mobile First\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 54.43,
+    "duracao": 0
+  },
+  "css-F200": {
+    "message_id": 201,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F200 2. Media queries\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 91.63,
+    "duracao": 0
+  },
+  "css-F199": {
+    "message_id": 200,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F199 1. Apresentação do Módulo\n\n12. Responsividade e Otimizações",
+    "tamanho_mb": 27.71,
+    "duracao": 0
+  },
+  "css-F198": {
+    "message_id": 199,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F198 4. Desafio - Gabarito\n\n12. Float no CSS",
+    "tamanho_mb": 214.57,
+    "duracao": 0
+  },
+  "css-F197": {
+    "message_id": 198,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F197 3. Desafio - Construindo um layout com float\n\n12. Float no CSS",
+    "tamanho_mb": 7.37,
+    "duracao": 0
+  },
+  "css-F196": {
+    "message_id": 197,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F196 2. Como usar as propriedades float e clear\n\n12. Float no CSS",
+    "tamanho_mb": 155.59,
+    "duracao": 0
+  },
+  "css-F195": {
+    "message_id": 196,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F195 1. Apresentação do Módulo\n\n12. Float no CSS",
+    "tamanho_mb": 21.22,
+    "duracao": 0
+  },
+  "css-F194": {
+    "message_id": 195,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F194 30. Desafio 2 - Deploy - Colocando a nossa página no ar\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 52.86,
+    "duracao": 0
+  },
+  "css-F193": {
+    "message_id": 194,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F193 29. Desafio 2 - Otimizando a Home da Hashtag\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 529.81,
+    "duracao": 0
+  },
+  "css-F192": {
+    "message_id": 193,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F192 28. Desafio 2 - Finalizando a Navegação Mobile\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 230.16,
+    "duracao": 0
+  },
+  "css-F191": {
+    "message_id": 192,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F191 27. Desafio 2 - Criando a Navegação Mobile\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 296.09,
+    "duracao": 0
+  },
+  "css-F190": {
+    "message_id": 191,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F190 26. Desafio 2 - Finalizando a última Media Query\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 280.9,
+    "duracao": 0
+  },
+  "css-F189": {
+    "message_id": 190,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F189 25. Desafio 2 - Última Media Query para as Seções Diferenciais, O que falam e Na mídia\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 155.49,
+    "duracao": 0
+  },
+  "css-F188": {
+    "message_id": 189,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F188 24. Desafio 2 - Última Media Query para a Seção Hero e Conteúdos\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 171.48,
+    "duracao": 0
+  },
+  "css-F187": {
+    "message_id": 188,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F187 23. Desafio 2 - Finalizando o Layout da Media Query de 767 a 480\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 176.34,
+    "duracao": 0
+  },
+  "css-F186": {
+    "message_id": 187,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F186 22. Desafio 2 - Alterando o Layout da Seção Blog\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 69.31,
+    "duracao": 0
+  },
+  "css-F185": {
+    "message_id": 186,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F185 21. Desafio 2 - Alterando o Layout da Seção Na mídia\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 77.19,
+    "duracao": 0
+  },
+  "css-F184": {
+    "message_id": 185,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F184 20. Desafio 2 - Alterando o Layout da Seção O que falam\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 281.6,
+    "duracao": 0
+  },
+  "css-F183": {
+    "message_id": 184,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F183 19. Desafio 2 - Alterando o Layout da Seção Diferenciais\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 132.26,
+    "duracao": 0
+  },
+  "css-F182": {
+    "message_id": 183,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F182 18. Desafio 2 - Alterando o Layout da Seção Conteúdos Gratuitos\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 167.04,
+    "duracao": 0
+  },
+  "css-F181": {
+    "message_id": 182,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F181 17. Desafio 2 - Alterando o Layout da Seção Hero\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 121.7,
+    "duracao": 0
+  },
+  "css-F180": {
+    "message_id": 181,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F180 16. Desafio 2 - Alterando a página inteira mudando uma única coisa\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 324.51,
+    "duracao": 0
+  },
+  "css-F179": {
+    "message_id": 180,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F179 15. Desafio 2 - Criando a primeira Media Query\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 302.1,
+    "duracao": 0
+  },
+  "css-F178": {
+    "message_id": 179,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F178 14. Desafio 2 - Deixando a Home da Hashtag responsiva\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 47.04,
+    "duracao": 0
+  },
+  "css-F177": {
+    "message_id": 178,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F177 13. Carregamento do CSS e Arquivos de Estilização\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 111.11,
+    "duracao": 0
+  },
+  "css-F176": {
+    "message_id": 177,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F176 12. Lazy Loading\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 91.14,
+    "duracao": 0
+  },
+  "css-F175": {
+    "message_id": 176,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F175 11. Importando Fontes\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 240.92,
+    "duracao": 0
+  },
+  "css-F174": {
+    "message_id": 175,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F174 10. Variáveis no CSS\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 167.2,
+    "duracao": 0
+  },
+  "css-F173": {
+    "message_id": 174,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F173 9. Imagens responsivas - CSS\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 152.93,
+    "duracao": 0
+  },
+  "css-F172": {
+    "message_id": 173,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F172 8. Imagens responsivas - Tag Picture\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 78.03,
+    "duracao": 0
+  },
+  "css-F171": {
+    "message_id": 172,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F171 7. Imagens responsivas - Tag Img - 22\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 126.47,
+    "duracao": 0
+  },
+  "css-F170": {
+    "message_id": 171,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F170 6. O que é DPR\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 62.9,
+    "duracao": 0
+  },
+  "css-F169": {
+    "message_id": 170,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F169 5. Imagens responsivas - Tag Img - 12\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 308.72,
+    "duracao": 0
+  },
+  "css-F168": {
+    "message_id": 169,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F168 4. Escolhendo as Media Queries\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 95.17,
+    "duracao": 0
+  },
+  "css-F167": {
+    "message_id": 168,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F167 3. Desktop x Mobile First\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 54.43,
+    "duracao": 0
+  },
+  "css-F166": {
+    "message_id": 167,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F166 2. Media queries\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 91.63,
+    "duracao": 0
+  },
+  "css-F165": {
+    "message_id": 166,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F165 1. Apresentação do Módulo\n\n11. Responsividade e Otimizações",
+    "tamanho_mb": 27.71,
+    "duracao": 0
+  },
+  "css-F164": {
+    "message_id": 165,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F164 11. Desafio 2 - Gabarito\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 298.82,
+    "duracao": 0
+  },
+  "css-F163": {
+    "message_id": 164,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F163 10. Desafio 2 - Transições na Home da Hashtag\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 15.63,
+    "duracao": 0
+  },
+  "css-F162": {
+    "message_id": 163,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F162 9. Desafio 1 - Gabarito\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 156.5,
+    "duracao": 0
+  },
+  "css-F161": {
+    "message_id": 162,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F161 8. Desafio 1 - Criando um Elementos Animado\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 17.69,
+    "duracao": 0
+  },
+  "css-F160": {
+    "message_id": 161,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F160 7. Animation e suas propriedades\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 217.81,
+    "duracao": 0
+  },
+  "css-F159": {
+    "message_id": 160,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F159 6. Keyframes\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 73.83,
+    "duracao": 0
+  },
+  "css-F158": {
+    "message_id": 159,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F158 5. Efeitos 3D\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 267.89,
+    "duracao": 0
+  },
+  "css-F157": {
+    "message_id": 158,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F157 4. Efeitos 2D\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 271.23,
+    "duracao": 0
+  },
+  "css-F156": {
+    "message_id": 157,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F156 3. Transições - 2-2\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 152.4,
+    "duracao": 0
+  },
+  "css-F155": {
+    "message_id": 156,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F155 2. Transições - 1-2\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 210.4,
+    "duracao": 0
+  },
+  "css-F154": {
+    "message_id": 155,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F154 1. Apresentação do Módulo\n\n11. Animações e Efeitos no CSS",
+    "tamanho_mb": 7.63,
+    "duracao": 0
+  },
+  "css-F153": {
+    "message_id": 154,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F153 1. O que vem pela frente\n\n10. Checkpoint",
+    "tamanho_mb": 64.44,
+    "duracao": 0
+  },
+  "css-F152": {
+    "message_id": 153,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F152 11. Desafio 2 - Gabarito\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 298.82,
+    "duracao": 0
+  },
+  "css-F151": {
+    "message_id": 152,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F151 10. Desafio 2 - Transições na Home da Hashtag\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 15.63,
+    "duracao": 0
+  },
+  "css-F150": {
+    "message_id": 151,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F150 9. Desafio 1 - Gabarito\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 156.5,
+    "duracao": 0
+  },
+  "css-F149": {
+    "message_id": 150,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F149 8. Desafio 1 - Criando um Elementos Animado\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 17.69,
+    "duracao": 0
+  },
+  "css-F148": {
+    "message_id": 149,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F148 7. Animation e suas propriedades\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 216.93,
+    "duracao": 0
+  },
+  "css-F147": {
+    "message_id": 148,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F147 6. Keyframes\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 73.83,
+    "duracao": 0
+  },
+  "css-F146": {
+    "message_id": 147,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F146 5. Efeitos 3D\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 267.89,
+    "duracao": 0
+  },
+  "css-F145": {
+    "message_id": 146,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F145 4. Efeitos 2D\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 271.23,
+    "duracao": 0
+  },
+  "css-F144": {
+    "message_id": 145,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F144 3. Transições - 2-2\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 152.4,
+    "duracao": 0
+  },
+  "css-F143": {
+    "message_id": 144,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F143 2. Transições - 1-2\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 210.4,
+    "duracao": 0
+  },
+  "css-F142": {
+    "message_id": 143,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F142 1. Apresentação do Módulo\n\n10. Animações e Efeitos no CSS",
+    "tamanho_mb": 7.63,
+    "duracao": 0
+  },
+  "css-F141": {
+    "message_id": 142,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F141 13. Desafio 2 - Gabarito\n\n9. Grid no CSS",
+    "tamanho_mb": 62.06,
+    "duracao": 0
+  },
+  "css-F140": {
+    "message_id": 141,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F140 12. Desafio 2 - Usando Grid na Seção Blog\n\n9. Grid no CSS",
+    "tamanho_mb": 29.0,
+    "duracao": 0
+  },
+  "css-F139": {
+    "message_id": 140,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F139 11. Desafio 1 - Gabarito\n\n9. Grid no CSS",
+    "tamanho_mb": 198.03,
+    "duracao": 0
+  },
+  "css-F138": {
+    "message_id": 139,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F138 10. Desafio 1 - Construindo um layout com Grid\n\n9. Grid no CSS",
+    "tamanho_mb": 26.15,
+    "duracao": 0
+  },
+  "css-F137": {
+    "message_id": 138,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F137 9. Alinhamento dos elementos\n\n9. Grid no CSS",
+    "tamanho_mb": 47.92,
+    "duracao": 0
+  },
+  "css-F136": {
+    "message_id": 137,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F136 8. Áreas dentro da Grade\n\n9. Grid no CSS",
+    "tamanho_mb": 92.26,
+    "duracao": 0
+  },
+  "css-F135": {
+    "message_id": 136,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F135 7. Espaçamento entre os elementos\n\n9. Grid no CSS",
+    "tamanho_mb": 27.09,
+    "duracao": 0
+  },
+  "css-F134": {
+    "message_id": 135,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F134 6. Posicionando os elementos\n\n9. Grid no CSS",
+    "tamanho_mb": 101.08,
+    "duracao": 0
+  },
+  "css-F133": {
+    "message_id": 134,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F133 5. Propriedade Grid\n\n9. Grid no CSS",
+    "tamanho_mb": 77.19,
+    "duracao": 0
+  },
+  "css-F132": {
+    "message_id": 133,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F132 4. Definindo as colunas da Grade\n\n9. Grid no CSS",
+    "tamanho_mb": 60.2,
+    "duracao": 0
+  },
+  "css-F131": {
+    "message_id": 132,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F131 3. Definindo as linhas da Grade\n\n9. Grid no CSS",
+    "tamanho_mb": 95.4,
+    "duracao": 0
+  },
+  "css-F130": {
+    "message_id": 131,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F130 2. Como usar o Grid\n\n9. Grid no CSS",
+    "tamanho_mb": 64.4,
+    "duracao": 0
+  },
+  "css-F129": {
+    "message_id": 130,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F129 1. Apresentação do Módulo\n\n9. Grid no CSS",
+    "tamanho_mb": 10.3,
+    "duracao": 0
+  },
+  "css-F128": {
+    "message_id": 129,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F128 13. Desafio 2 - Gabarito\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 236.9,
+    "duracao": 0
+  },
+  "css-F127": {
+    "message_id": 128,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F127 12. Desafio 2 - Criando o Popup da Home da Hashtag\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 15.96,
+    "duracao": 0
+  },
+  "css-F126": {
+    "message_id": 127,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F126 11. Carrossel - Resolução 22\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 179.02,
+    "duracao": 0
+  },
+  "css-F125": {
+    "message_id": 126,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F125 10. Carrossel - Resolução 12\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 448.29,
+    "duracao": 0
+  },
+  "css-F124": {
+    "message_id": 125,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F124 9. Carrossel - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 17.74,
+    "duracao": 0
+  },
+  "css-F123": {
+    "message_id": 124,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F123 8. Popup - Resolução\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 456.1,
+    "duracao": 0
+  },
+  "css-F122": {
+    "message_id": 123,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F122 7. Popup - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 13.56,
+    "duracao": 0
+  },
+  "css-F121": {
+    "message_id": 122,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F121 6. Acordeão - Resolução\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 283.53,
+    "duracao": 0
+  },
+  "css-F120": {
+    "message_id": 121,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F120 5. Acordeão - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 28.06,
+    "duracao": 0
+  },
+  "css-F119": {
+    "message_id": 120,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F119 4. Paginação - Resolução 22 + CSS Nesting\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 109.09,
+    "duracao": 0
+  },
+  "css-F118": {
+    "message_id": 119,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F118 3. Paginação - Resolução 12\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 205.48,
+    "duracao": 0
+  },
+  "css-F117": {
+    "message_id": 118,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F117 2. Paginação - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 10.7,
+    "duracao": 0
+  },
+  "css-F116": {
+    "message_id": 117,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F116 1. Apresentação do Módulo\n\n8. Componentes Personalizados no HTML",
+    "tamanho_mb": 41.89,
+    "duracao": 0
+  },
+  "css-F115": {
+    "message_id": 116,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F115 19. Desafio 2 - Flexbox no Rodapé\n\n7. Flexbox no CSS",
+    "tamanho_mb": 267.72,
+    "duracao": 0
+  },
+  "css-F114": {
+    "message_id": 115,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F114 18. Desafio 2 - Flexbox na Seção Minicurso\n\n7. Flexbox no CSS",
+    "tamanho_mb": 92.51,
+    "duracao": 0
+  },
+  "css-F113": {
+    "message_id": 114,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F113 17. Desafio 2 - Flexbox na Seção Como ajudar\n\n7. Flexbox no CSS",
+    "tamanho_mb": 142.59,
+    "duracao": 0
+  },
+  "css-F112": {
+    "message_id": 113,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F112 16. Desafio 2 - Flexbox na Blog da Hashtag\n\n7. Flexbox no CSS",
+    "tamanho_mb": 154.87,
+    "duracao": 0
+  },
+  "css-F111": {
+    "message_id": 112,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F111 15. Desafio 2 - Flexbox na Seção Na mídia\n\n7. Flexbox no CSS",
+    "tamanho_mb": 45.3,
+    "duracao": 0
+  },
+  "css-F110": {
+    "message_id": 111,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F110 14. Desafio 2 - Flexbox na Seção O que falam\n\n7. Flexbox no CSS",
+    "tamanho_mb": 122.18,
+    "duracao": 0
+  },
+  "css-F109": {
+    "message_id": 110,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F109 13. Desafio 2 - Flexbox na Seção Diferenciais\n\n7. Flexbox no CSS",
+    "tamanho_mb": 486.22,
+    "duracao": 0
+  },
+  "css-F108": {
+    "message_id": 109,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F108 12. Desafio 2 - Flexbox na Seção Conteúdos Gratuitos\n\n7. Flexbox no CSS",
+    "tamanho_mb": 275.85,
+    "duracao": 0
+  },
+  "css-F107": {
+    "message_id": 108,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F107 11. Desafio 2 - Flexbox na Seção Hero\n\n7. Flexbox no CSS",
+    "tamanho_mb": 167.54,
+    "duracao": 0
+  },
+  "css-F106": {
+    "message_id": 107,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F106 10. Desafio 2 - Flexbox no Cabeçalho\n\n7. Flexbox no CSS",
+    "tamanho_mb": 346.07,
+    "duracao": 0
+  },
+  "css-F105": {
+    "message_id": 106,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F105 9. Desafio 2 - Flexbox na Home da Hashtag\n\n7. Flexbox no CSS",
+    "tamanho_mb": 11.17,
+    "duracao": 0
+  },
+  "css-F104": {
+    "message_id": 105,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F104 8. Desafio 1 - Gabarito\n\n7. Flexbox no CSS",
+    "tamanho_mb": 260.9,
+    "duracao": 0
+  },
+  "css-F103": {
+    "message_id": 104,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F103 7. Desafio 1 - Construindo Layouts com Flexbox\n\n7. Flexbox no CSS",
+    "tamanho_mb": 32.22,
+    "duracao": 0
+  },
+  "css-F102": {
+    "message_id": 103,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F102 6. Alinhamento e Posicionamento dos elementos\n\n7. Flexbox no CSS",
+    "tamanho_mb": 250.73,
+    "duracao": 0
+  },
+  "css-F101": {
+    "message_id": 102,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F101 5. Tamanho dos elementos\n\n7. Flexbox no CSS",
+    "tamanho_mb": 199.0,
+    "duracao": 0
+  },
+  "css-F100": {
+    "message_id": 101,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F100 4. Mudar a direção do Flexbox\n\n7. Flexbox no CSS",
+    "tamanho_mb": 89.91,
+    "duracao": 0
+  },
+  "css-F099": {
+    "message_id": 100,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F099 3. Espaçamento entre os elementos\n\n7. Flexbox no CSS",
+    "tamanho_mb": 78.06,
+    "duracao": 0
+  },
+  "css-F098": {
+    "message_id": 99,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F098 2. O que é e como usar o Flexbox\n\n7. Flexbox no CSS",
+    "tamanho_mb": 121.09,
+    "duracao": 0
+  },
+  "css-F097": {
+    "message_id": 98,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F097 1. Apresentação do Módulo\n\n7. Flexbox no CSS",
+    "tamanho_mb": 17.4,
+    "duracao": 0
+  },
+  "css-F096": {
+    "message_id": 97,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F096 26. Desafio 2 - Aprofundando o Rodapé\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 360.19,
+    "duracao": 0
+  },
+  "css-F095": {
+    "message_id": 96,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F095 25. Desafio 2 - Aprofundando a Seção Minicurso\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 203.9,
+    "duracao": 0
+  },
+  "css-F094": {
+    "message_id": 95,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F094 24. Desafio 2 - Aprofundando a Seção Como ajudar\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 258.49,
+    "duracao": 0
+  },
+  "css-F093": {
+    "message_id": 94,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F093 23. Desafio 2 - Aprofundando a Blog da Hashtag\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 275.99,
+    "duracao": 0
+  },
+  "css-F092": {
+    "message_id": 93,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F092 22. Desafio 2 - Aprofundando a Seção Na mídia\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 57.65,
+    "duracao": 0
+  },
+  "css-F091": {
+    "message_id": 92,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F091 21. Desafio 2 - Aprofundando a Seção O que falam\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 465.48,
+    "duracao": 0
+  },
+  "css-F090": {
+    "message_id": 91,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F090 20. Desafio 2 - Aprofundando a Seção Diferenciais\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 478.3,
+    "duracao": 0
+  },
+  "css-F089": {
+    "message_id": 90,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F089 19. Desafio 2 - Aprofundando a Seção Conteúdos Gratuitos\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 430.06,
+    "duracao": 0
+  },
+  "css-F088": {
+    "message_id": 89,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F088 18. Desafio 2 - Aprofundando a Seção Hero\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 429.15,
+    "duracao": 0
+  },
+  "css-F087": {
+    "message_id": 88,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F087 17. Desafio 2 - Aprofundando o Cabeçalho\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 410.48,
+    "duracao": 0
+  },
+  "css-F086": {
+    "message_id": 87,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F086 16. Desafio 2 - Aprofundando no Desafio 2\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 35.34,
+    "duracao": 0
+  },
+  "css-F085": {
+    "message_id": 86,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F085 15. Desafio 1 - Gabarito\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 320.11,
+    "duracao": 0
+  },
+  "css-F084": {
+    "message_id": 85,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F084 14. Desafio 1 - Evoluindo a página de Exercício\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 31.32,
+    "duracao": 0
+  },
+  "css-F083": {
+    "message_id": 84,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F083 13. Background Color e Image\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 143.55,
+    "duracao": 0
+  },
+  "css-F082": {
+    "message_id": 83,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F082 12. Tipos de posicionamento\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 150.55,
+    "duracao": 0
+  },
+  "css-F081": {
+    "message_id": 82,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F081 11. Tipos de visualização\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 127.94,
+    "duracao": 0
+  },
+  "css-F080": {
+    "message_id": 81,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F080 10. Elementos arredondados\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 26.28,
+    "duracao": 0
+  },
+  "css-F079": {
+    "message_id": 80,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F079 9. Sombras\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 103.86,
+    "duracao": 0
+  },
+  "css-F078": {
+    "message_id": 79,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F078 8. Box Model no CSS\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 74.43,
+    "duracao": 0
+  },
+  "css-F077": {
+    "message_id": 78,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F077 7. Seletor universal e herança de estilos\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 78.18,
+    "duracao": 0
+  },
+  "css-F076": {
+    "message_id": 77,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F076 6. Pseudo-elementos\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 78.71,
+    "duracao": 0
+  },
+  "css-F075": {
+    "message_id": 76,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F075 5. Pseudo-classes\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 69.17,
+    "duracao": 0
+  },
+  "css-F074": {
+    "message_id": 75,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F074 4. Dimensões e unidades no CSS\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 202.94,
+    "duracao": 0
+  },
+  "css-F073": {
+    "message_id": 74,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F073 3. Trabalhando com espaçamentos\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 75.64,
+    "duracao": 0
+  },
+  "css-F072": {
+    "message_id": 73,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F072 2. Especificidade no CSS\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 68.37,
+    "duracao": 0
+  },
+  "css-F071": {
+    "message_id": 72,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F071 1. Apresentação do Módulo\n\n6. Aprofundando no CSS",
+    "tamanho_mb": 19.01,
+    "duracao": 0
+  },
+  "css-F070": {
+    "message_id": 71,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F070 19. Desafio 2 - Completando o Rodapé\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 62.08,
+    "duracao": 0
+  },
+  "css-F069": {
+    "message_id": 70,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F069 18. Desafio 2 - Completando a Seção Minicurso\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 73.04,
+    "duracao": 0
+  },
+  "css-F068": {
+    "message_id": 69,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F068 17. Desafio 2 - Completando a Seção Como ajudar\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 21.55,
+    "duracao": 0
+  },
+  "css-F067": {
+    "message_id": 68,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F067 16. Desafio 2 - Completando a Seção Blog da Hashtag\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 31.52,
+    "duracao": 0
+  },
+  "css-F066": {
+    "message_id": 67,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F066 15. Desafio 2 - Completando a Seção O que falam e Na mídia\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 33.83,
+    "duracao": 0
+  },
+  "css-F065": {
+    "message_id": 66,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F065 14. Desafio 2 - Completando a Seção Diferenciais\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 43.5,
+    "duracao": 0
+  },
+  "css-F064": {
+    "message_id": 65,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F064 13. Desafio 2 - Completando a Seção Conteúdos Gratuitos\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 64.69,
+    "duracao": 0
+  },
+  "css-F063": {
+    "message_id": 64,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F063 12. Desafio 2 - Completando a Seção Hero\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 104.07,
+    "duracao": 0
+  },
+  "css-F062": {
+    "message_id": 63,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F062 11. Desafio 2 - Completando o Cabeçalho\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 50.94,
+    "duracao": 0
+  },
+  "css-F061": {
+    "message_id": 62,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F061 10. Desafio 2 - Explicando as novidades\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 23.57,
+    "duracao": 0
+  },
+  "css-F060": {
+    "message_id": 61,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F060 9. Desafio 1 - Construindo juntos\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 321.05,
+    "duracao": 0
+  },
+  "css-F059": {
+    "message_id": 60,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F059 8. Desafio 1 - Apresentando o Desafio\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 39.3,
+    "duracao": 0
+  },
+  "css-F058": {
+    "message_id": 59,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F058 7. iFrames\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 72.89,
+    "duracao": 0
+  },
+  "css-F057": {
+    "message_id": 58,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F057 6. Tabelas\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 124.79,
+    "duracao": 0
+  },
+  "css-F056": {
+    "message_id": 57,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F056 5. Formulários\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 135.19,
+    "duracao": 0
+  },
+  "css-F055": {
+    "message_id": 56,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F055 4. Entrando mais a fundo na estrutura dos documentos\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 137.68,
+    "duracao": 0
+  },
+  "css-F054": {
+    "message_id": 55,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F054 3. Códigos e Datas\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 97.04,
+    "duracao": 0
+  },
+  "css-F053": {
+    "message_id": 54,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F053 2. Citações, Abreviações e Detalhes de contato\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 115.02,
+    "duracao": 0
+  },
+  "css-F052": {
+    "message_id": 53,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F052 1. Apresentação do Módulo\n\n5. Aprofundando no HTML",
+    "tamanho_mb": 35.84,
+    "duracao": 0
+  },
+  "css-F051": {
+    "message_id": 52,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F051 20. Desafio 2 - Formatando o Rodapé\n\n4. Introdução ao CSS",
+    "tamanho_mb": 99.51,
+    "duracao": 0
+  },
+  "css-F050": {
+    "message_id": 51,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F050 19. Desafio 2 - Formatando a Seção Minicurso\n\n4. Introdução ao CSS",
+    "tamanho_mb": 36.37,
+    "duracao": 0
+  },
+  "css-F049": {
+    "message_id": 50,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F049 18. Desafio 2 - Formatando a Seção Como ajudar\n\n4. Introdução ao CSS",
+    "tamanho_mb": 104.5,
+    "duracao": 0
+  },
+  "css-F048": {
+    "message_id": 49,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F048 17. Desafio 2 - Formatando a Seção Blog da Hashtag\n\n4. Introdução ao CSS",
+    "tamanho_mb": 82.42,
+    "duracao": 0
+  },
+  "css-F047": {
+    "message_id": 48,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F047 16. Desafio 2 - Formatando a Seção Na mídia\n\n4. Introdução ao CSS",
+    "tamanho_mb": 13.63,
+    "duracao": 0
+  },
+  "css-F046": {
+    "message_id": 47,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F046 15. Desafio 2 - Formatando a Seção O que falam\n\n4. Introdução ao CSS",
+    "tamanho_mb": 62.99,
+    "duracao": 0
+  },
+  "css-F045": {
+    "message_id": 46,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F045 14. Desafio 2 - Formatando a Seção Diferenciais\n\n4. Introdução ao CSS",
+    "tamanho_mb": 150.39,
+    "duracao": 0
+  },
+  "css-F044": {
+    "message_id": 45,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F044 13. Desafio 2 - Formatando a Seção Conteúdos Gratuitos\n\n4. Introdução ao CSS",
+    "tamanho_mb": 143.0,
+    "duracao": 0
+  },
+  "css-F043": {
+    "message_id": 44,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F043 12. Desafio 2 - Formatando a Seção Hero\n\n4. Introdução ao CSS",
+    "tamanho_mb": 88.7,
+    "duracao": 0
+  },
+  "css-F042": {
+    "message_id": 43,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F042 11. Desafio 2 - Formatando o Cabeçalho\n\n4. Introdução ao CSS",
+    "tamanho_mb": 192.79,
+    "duracao": 0
+  },
+  "css-F041": {
+    "message_id": 42,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F041 10. Desafio 2 - Formatando a Home da Hashtag\n\n4. Introdução ao CSS",
+    "tamanho_mb": 56.38,
+    "duracao": 0
+  },
+  "css-F040": {
+    "message_id": 41,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F040 9. Desafio 1 - Resolvendo o Desafio\n\n4. Introdução ao CSS",
+    "tamanho_mb": 158.22,
+    "duracao": 0
+  },
+  "css-F039": {
+    "message_id": 40,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F039 8. Desafio 1 - Formatando uma página em HTML\n\n4. Introdução ao CSS",
+    "tamanho_mb": 40.15,
+    "duracao": 0
+  },
+  "css-F038": {
+    "message_id": 39,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F038 7. Estilizando hiperlinks\n\n4. Introdução ao CSS",
+    "tamanho_mb": 87.34,
+    "duracao": 0
+  },
+  "css-F037": {
+    "message_id": 38,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F037 6. Trabalhando com cores\n\n4. Introdução ao CSS",
+    "tamanho_mb": 115.66,
+    "duracao": 0
+  },
+  "css-F036": {
+    "message_id": 37,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F036 5. Estilizando textos\n\n4. Introdução ao CSS",
+    "tamanho_mb": 228.35,
+    "duracao": 0
+  },
+  "css-F035": {
+    "message_id": 36,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F035 4. Combinando seletores\n\n4. Introdução ao CSS",
+    "tamanho_mb": 123.36,
+    "duracao": 0
+  },
+  "css-F034": {
+    "message_id": 35,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F034 3. Seletores no CSS\n\n4. Introdução ao CSS",
+    "tamanho_mb": 113.09,
+    "duracao": 0
+  },
+  "css-F033": {
+    "message_id": 34,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F033 2. As três formas de escrever CSS\n\n4. Introdução ao CSS",
+    "tamanho_mb": 102.41,
+    "duracao": 0
+  },
+  "css-F032": {
+    "message_id": 33,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F032 1. O que é CSS\n\n4. Introdução ao CSS",
+    "tamanho_mb": 26.47,
+    "duracao": 0
+  },
+  "css-F031": {
+    "message_id": 32,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F031 21. Desafio 2 - Criando o Rodapé\n\n3. Introdução ao HTML",
+    "tamanho_mb": 143.61,
+    "duracao": 0
+  },
+  "css-F030": {
+    "message_id": 31,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F030 20. Desafio 2 - Criando a Seção Minicurso\n\n3. Introdução ao HTML",
+    "tamanho_mb": 21.17,
+    "duracao": 0
+  },
+  "css-F029": {
+    "message_id": 30,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F029 19. Desafio 2 - Criando a Seção Como ajudar\n\n3. Introdução ao HTML",
+    "tamanho_mb": 50.0,
+    "duracao": 0
+  },
+  "css-F028": {
+    "message_id": 29,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F028 18. Desafio 2 - Criando a Seção Blog da Hashtag\n\n3. Introdução ao HTML",
+    "tamanho_mb": 110.9,
+    "duracao": 0
+  },
+  "css-F027": {
+    "message_id": 28,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F027 17. Desafio 2 - Criando a Seção Na mídia\n\n3. Introdução ao HTML",
+    "tamanho_mb": 18.84,
+    "duracao": 0
+  },
+  "css-F026": {
+    "message_id": 27,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F026 16. Desafio 2 - Criando a Seção O que falam\n\n3. Introdução ao HTML",
+    "tamanho_mb": 52.17,
+    "duracao": 0
+  },
+  "css-F025": {
+    "message_id": 26,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F025 15. Desafio 2 - Criando a Seção Diferenciais\n\n3. Introdução ao HTML",
+    "tamanho_mb": 125.6,
+    "duracao": 0
+  },
+  "css-F024": {
+    "message_id": 25,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F024 14. Desafio 2 - Criando a Seção Conteúdos Gratuitos\n\n3. Introdução ao HTML",
+    "tamanho_mb": 185.35,
+    "duracao": 0
+  },
+  "css-F023": {
+    "message_id": 24,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F023 13. Desafio 2 - Criando a Seção Hero\n\n3. Introdução ao HTML",
+    "tamanho_mb": 32.79,
+    "duracao": 0
+  },
+  "css-F022": {
+    "message_id": 23,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F022 12. Desafio 2 - Criando o Cabeçalho\n\n3. Introdução ao HTML",
+    "tamanho_mb": 233.47,
+    "duracao": 0
+  },
+  "css-F021": {
+    "message_id": 22,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F021 11. Desafio 2 - Home da Hashtag Treinamentos\n\n3. Introdução ao HTML",
+    "tamanho_mb": 73.84,
+    "duracao": 0
+  },
+  "css-F020": {
+    "message_id": 21,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F020 10. Desafio 1 - Construindo o Desafio do Zero\n\n3. Introdução ao HTML",
+    "tamanho_mb": 213.79,
+    "duracao": 0
+  },
+  "css-F019": {
+    "message_id": 20,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F019 9. Desafio 1 - Apresentando o Desafio\n\n3. Introdução ao HTML",
+    "tamanho_mb": 77.5,
+    "duracao": 0
+  },
+  "css-F018": {
+    "message_id": 19,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F018 8. Ferramentas do Programador\n\n3. Introdução ao HTML",
+    "tamanho_mb": 47.96,
+    "duracao": 0
+  },
+  "css-F017": {
+    "message_id": 18,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F017 7. Imagens e seus atributos no HTML\n\n3. Introdução ao HTML",
+    "tamanho_mb": 81.19,
+    "duracao": 0
+  },
+  "css-F016": {
+    "message_id": 17,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F016 6. Hiperlinks\n\n3. Introdução ao HTML",
+    "tamanho_mb": 158.38,
+    "duracao": 0
+  },
+  "css-F015": {
+    "message_id": 16,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F015 5. Listas ordenadas e não ordenadas\n\n3. Introdução ao HTML",
+    "tamanho_mb": 42.28,
+    "duracao": 0
+  },
+  "css-F014": {
+    "message_id": 15,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F014 4. Ênfase, Importância e Formatação de Textos\n\n3. Introdução ao HTML",
+    "tamanho_mb": 80.38,
+    "duracao": 0
+  },
+  "css-F013": {
+    "message_id": 14,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F013 3. Elementos de texto\n\n3. Introdução ao HTML",
+    "tamanho_mb": 87.24,
+    "duracao": 0
+  },
+  "css-F012": {
+    "message_id": 13,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F012 2. Estrutura de um documento HTML\n\n3. Introdução ao HTML",
+    "tamanho_mb": 113.59,
+    "duracao": 0
+  },
+  "css-F011": {
+    "message_id": 12,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F011 1. O que é o HTML\n\n3. Introdução ao HTML",
+    "tamanho_mb": 19.96,
+    "duracao": 0
+  },
+  "css-F010": {
+    "message_id": 11,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F010 3. 2 dicas para todo programador\n\n2. Boas vindas e configurações iniciais",
+    "tamanho_mb": 64.09,
+    "duracao": 0
+  },
+  "css-F009": {
+    "message_id": 10,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F009 2. Baixando e configurando nosso editor de códigos\n\n2. Boas vindas e configurações iniciais",
+    "tamanho_mb": 111.31,
+    "duracao": 0
+  },
+  "css-F008": {
+    "message_id": 9,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F008 1. O que é Desenvolvimento Web\n\n2. Boas vindas e configurações iniciais",
+    "tamanho_mb": 106.32,
+    "duracao": 0
+  },
+  "css-F007": {
+    "message_id": 8,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F007 7. Grupo do Facebook do HTML e CSS Impressionador\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 25.43,
+    "duracao": 0
+  },
+  "css-F006": {
+    "message_id": 7,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F006 6. Suporte Hashtag\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 16.51,
+    "duracao": 0
+  },
+  "css-F005": {
+    "message_id": 6,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F005 5. Como funciona a garantia\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 9.67,
+    "duracao": 0
+  },
+  "css-F004": {
+    "message_id": 5,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F004 4. Como emitir o certificado\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 31.67,
+    "duracao": 0
+  },
+  "css-F003": {
+    "message_id": 4,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F003 3. Como baixar os arquivos e a apostila\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 6.5,
+    "duracao": 0
+  },
+  "css-F002": {
+    "message_id": 3,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F002 2. Como tirar suas dúvidas\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 52.29,
+    "duracao": 0
+  },
+  "css-F001": {
+    "message_id": 2,
+    "channel_id": -1002070133804,
+    "titulo_completo": "#F001 1. Como assistir as aulas\n\n1. Introdução (Assista antes de começar)",
+    "tamanho_mb": 58.13,
+    "duracao": 0
   }
 }
