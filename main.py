@@ -28,8 +28,11 @@ PREFETCH_CHUNKS = config["PREFETCH"]
 # === CONFIGURAÇÃO TELEGRAM ===
 API_ID = int(os.environ['API_ID'])
 API_HASH = os.environ['API_HASH']
-SESSION_STRING = os.environ['TELEGRAM_SESSION_STRING']
+SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING') or os.environ.get('SESSION_STRING')
 
+if not SESSION_STRING:
+    raise ValueError("Nenhuma string de sessão encontrada nas variáveis de ambiente.")
+    
 app = FastAPI()
 
 # CORS
