@@ -111,4 +111,243 @@
 [2m2026-03-03T17:47:05Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Preparing to run: `gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app --bind 0.0.0.0:8000` as root
 [2m2026-03-03T17:47:05Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m [fly api proxy] listening at /.fly/api
 [2m2026-03-03T17:47:06Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Machine created and started in 11.826s
-[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026/03/03 17:47:06 INFO SSH listening listen_address=[fdaa:32:8f57:a7b:5d5:f8fa:b973:2]:22
+[2m2026-03-03T17:47:06Z[0m health[90807799a69568] [32mgru[0m [[31merror[0m]Health check 'servicecheck-00-http-8000' on port 8000 has failed. Your app is not responding properly. Services exposed on ports [80, 443] will have intermittent failures until the health check passes.
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [656] [INFO] Starting gunicorn 25.1.0
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [656] [INFO] Listening at: http://0.0.0.0:8000 (656)
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [656] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [656] [INFO] Control socket listening at /app/gunicorn.ctl
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [666] [INFO] Booting worker with pid: 666
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [667] [INFO] Booting worker with pid: 667
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [668] [INFO] Booting worker with pid: 668
+[2m2026-03-03T17:47:06Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:06 +0000] [669] [INFO] Booting worker with pid: 669
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [667] [INFO] Started server process [667]
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [668] [INFO] Started server process [668]
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [668] [INFO] Waiting for application startup.
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [667] [INFO] Waiting for application startup.
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [666] [INFO] Started server process [666]
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [666] [INFO] Waiting for application startup.
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [669] [INFO] Started server process [669]
+[2m2026-03-03T17:47:08Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:08 +0000] [669] [INFO] Waiting for application startup.
+[2m2026-03-03T17:47:09Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:09 +0000] [667] [INFO] Application startup complete.
+[2m2026-03-03T17:47:09Z[0m health[90807799a69568] [32mgru[0m [[34minfo[0m]Health check 'servicecheck-00-http-8000' on port 8000 is now passing.
+[2m2026-03-03T17:47:09Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:09 +0000] [666] [INFO] Application startup complete.
+[2m2026-03-03T17:47:09Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:09 +0000] [668] [INFO] Application startup complete.
+[2m2026-03-03T17:47:09Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:47:09 +0000] [669] [INFO] Application startup complete.
+[2m2026-03-03T17:54:27Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]App telegram-streamer has excess capacity, autostopping machine 90807799a69568. 0 out of 1 machines left running (region=gru, process group=app)
+[2m2026-03-03T17:54:27Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Sending signal SIGINT to main child process w/ PID 656
+[2m2026-03-03T17:54:27Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 17:54:27 +0000] [656] [INFO] Handling signal: int
+[2m2026-03-03T17:54:32Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Sending signal SIGTERM to main child process w/ PID 656
+[2m2026-03-03T17:54:37Z[0m app[90807799a69568] [32mgru[0m [[33mwarn[0m]Virtual machine exited abruptly
+[2m2026-03-03T18:06:41Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]Starting machine
+[2m2026-03-03T18:06:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026-03-03T18:06:41.958033652 [01KJTCYPJ7AB66RHPA8RC360K8:main] Running Firecracker v1.12.1
+[2m2026-03-03T18:06:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026-03-03T18:06:41.958163673 [01KJTCYPJ7AB66RHPA8RC360K8:main] Listening on API socket ("/fc.sock").
+[2m2026-03-03T18:06:42Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Starting init (commit: 350f2667)...
+[2m2026-03-03T18:06:42Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Preparing to run: `gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app --bind 0.0.0.0:8000` as root
+[2m2026-03-03T18:06:42Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m [fly api proxy] listening at /.fly/api
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026/03/03 18:06:43 INFO SSH listening listen_address=[fdaa:32:8f57:a7b:5d5:f8fa:b973:2]:22
+[2m2026-03-03T18:06:43Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Machine started in 1.17s
+[2m2026-03-03T18:06:43Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]machine started in 1.30127711s
+[2m2026-03-03T18:06:43Z[0m health[90807799a69568] [32mgru[0m [[31merror[0m]Health check 'servicecheck-00-http-8000' on port 8000 has failed. Your app is not responding properly. Services exposed on ports [80, 443] will have intermittent failures until the health check passes.
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [656] [INFO] Starting gunicorn 25.1.0
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [656] [INFO] Listening at: http://0.0.0.0:8000 (656)
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [656] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [656] [INFO] Control socket listening at /app/gunicorn.ctl
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [667] [INFO] Booting worker with pid: 667
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [668] [INFO] Booting worker with pid: 668
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [669] [INFO] Booting worker with pid: 669
+[2m2026-03-03T18:06:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:43 +0000] [670] [INFO] Booting worker with pid: 670
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [669] [INFO] Started server process [669]
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [668] [INFO] Started server process [668]
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [669] [INFO] Waiting for application startup.
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [667] [INFO] Started server process [667]
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [667] [INFO] Waiting for application startup.
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [668] [INFO] Waiting for application startup.
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [670] [INFO] Started server process [670]
+[2m2026-03-03T18:06:45Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:45 +0000] [670] [INFO] Waiting for application startup.
+[2m2026-03-03T18:06:46Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:46 +0000] [668] [INFO] Application startup complete.
+[2m2026-03-03T18:06:46Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:46 +0000] [670] [INFO] Application startup complete.
+[2m2026-03-03T18:06:46Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:46 +0000] [667] [INFO] Application startup complete.
+[2m2026-03-03T18:06:46Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:06:46 +0000] [669] [INFO] Application startup complete.
+[2m2026-03-03T18:06:46Z[0m health[90807799a69568] [32mgru[0m [[34minfo[0m]Health check 'servicecheck-00-http-8000' on port 8000 is now passing.
+[2m2026-03-03T18:06:46Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]machine became reachable in 3.462726563s
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:09:39 +0000] [669] [ERROR] Exception in ASGI application
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  + Exception Group Traceback (most recent call last):
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |   File "/usr/local/lib/python3.13/site-packages/starlette/_utils.py", line 79, in collapse_excgroups
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |     yield
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 270, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |     async with anyio.create_task_group() as task_group:
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |   File "/usr/local/lib/python3.13/site-packages/anyio/_backends/_asyncio.py", line 781, in __aexit__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |     raise BaseExceptionGroup(
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |         "unhandled errors in a TaskGroup", self._exceptions
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  |     ) from None
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  +-+---------------- 1 ----------------
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    | Traceback (most recent call last):
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 416, in run_asgi
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     result = await app(  # type: ignore[func-returns-value]
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |         self.scope, self.receive, self.send
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     )
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     ^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     return await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/fastapi/applications.py", line 1160, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await super().__call__(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/applications.py", line 113, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 186, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 164, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.app(scope, receive, _send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/middleware/cors.py", line 85, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await app(scope, receive, sender)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 716, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await route.handle(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 130, in app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await app(scope, receive, sender)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 117, in app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await response(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 269, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     with collapse_excgroups():
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |          ~~~~~~~~~~~~~~~~~~^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/contextlib.py", line 162, in __exit__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     self.gen.throw(value)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     ~~~~~~~~~~~~~~^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 273, in wrap
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await func()
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 256, in stream_response
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send({"type": "http.response.body", "body": chunk, "more_body": True})
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send(message)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send(message)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 161, in _send
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     await send(message)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |   File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 543, in send
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    |     raise RuntimeError("Response content longer than Content-Length")
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    | RuntimeError: Response content longer than Content-Length
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    +------------------------------------
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]During handling of the above exception, another exception occurred:
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]Traceback (most recent call last):
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 416, in run_asgi
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    result = await app(  # type: ignore[func-returns-value]
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]        self.scope, self.receive, self.send
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    )
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    ^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    return await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/applications.py", line 1160, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await super().__call__(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/applications.py", line 113, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 186, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 164, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, _send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/cors.py", line 85, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await app(scope, receive, sender)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 716, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.middleware_stack(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 736, in app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await route.handle(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/routing.py", line 290, in handle
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await self.app(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 130, in app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await app(scope, receive, sender)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/fastapi/routing.py", line 117, in app
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await response(scope, receive, send)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 269, in __call__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    with collapse_excgroups():
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]         ~~~~~~~~~~~~~~~~~~^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/contextlib.py", line 162, in __exit__
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    self.gen.throw(value)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    ~~~~~~~~~~~~~~^^^^^^^
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise exc
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 273, in wrap
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await func()
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/responses.py", line 256, in stream_response
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send({"type": "http.response.body", "body": chunk, "more_body": True})
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send(message)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/_exception_handler.py", line 39, in sender
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send(message)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/starlette/middleware/errors.py", line 161, in _send
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    await send(message)
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]  File "/usr/local/lib/python3.13/site-packages/uvicorn/protocols/http/httptools_impl.py", line 543, in send
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]    raise RuntimeError("Response content longer than Content-Length")
+[2m2026-03-03T18:09:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]RuntimeError: Response content longer than Content-Length
+[2m2026-03-03T18:13:29Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]App telegram-streamer has excess capacity, autostopping machine 90807799a69568. 0 out of 1 machines left running (region=gru, process group=app)
+[2m2026-03-03T18:13:29Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Sending signal SIGINT to main child process w/ PID 656
+[2m2026-03-03T18:13:29Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:13:29 +0000] [656] [INFO] Handling signal: int
+[2m2026-03-03T18:13:34Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Sending signal SIGTERM to main child process w/ PID 656
+[2m2026-03-03T18:13:39Z[0m app[90807799a69568] [32mgru[0m [[33mwarn[0m]Virtual machine exited abruptly
+[2m2026-03-03T18:39:39Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]Starting machine
+[2m2026-03-03T18:39:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026-03-03T18:39:39.703591936 [01KJTCYPJ7AB66RHPA8RC360K8:main] Running Firecracker v1.12.1
+[2m2026-03-03T18:39:39Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026-03-03T18:39:39.703742308 [01KJTCYPJ7AB66RHPA8RC360K8:main] Listening on API socket ("/fc.sock").
+[2m2026-03-03T18:39:40Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Starting init (commit: 350f2667)...
+[2m2026-03-03T18:39:40Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m Preparing to run: `gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app --bind 0.0.0.0:8000` as root
+[2m2026-03-03T18:39:40Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][32m INFO[0m [fly api proxy] listening at /.fly/api
+[2m2026-03-03T18:39:40Z[0m runner[90807799a69568] [32mgru[0m [[34minfo[0m]Machine started in 1.06s
+[2m2026-03-03T18:39:40Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]machine started in 1.143755596s
+[2m2026-03-03T18:39:40Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m]2026/03/03 18:39:40 INFO SSH listening listen_address=[fdaa:32:8f57:a7b:5d5:f8fa:b973:2]:22
+[2m2026-03-03T18:39:41Z[0m health[90807799a69568] [32mgru[0m [[31merror[0m]Health check 'servicecheck-00-http-8000' on port 8000 has failed. Your app is not responding properly. Services exposed on ports [80, 443] will have intermittent failures until the health check passes.
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [657] [INFO] Starting gunicorn 25.1.0
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [657] [INFO] Listening at: http://0.0.0.0:8000 (657)
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [657] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [657] [INFO] Control socket listening at /app/gunicorn.ctl
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [668] [INFO] Booting worker with pid: 668
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [669] [INFO] Booting worker with pid: 669
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [670] [INFO] Booting worker with pid: 670
+[2m2026-03-03T18:39:41Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:41 +0000] [671] [INFO] Booting worker with pid: 671
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [668] [INFO] Started server process [668]
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [671] [INFO] Started server process [671]
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [671] [INFO] Waiting for application startup.
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [670] [INFO] Started server process [670]
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [670] [INFO] Waiting for application startup.
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [668] [INFO] Waiting for application startup.
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [669] [INFO] Started server process [669]
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [669] [INFO] Waiting for application startup.
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [670] [INFO] Application startup complete.
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [668] [INFO] Application startup complete.
+[2m2026-03-03T18:39:43Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:43 +0000] [671] [INFO] Application startup complete.
+[2m2026-03-03T18:39:44Z[0m app[90807799a69568] [32mgru[0m [[34minfo[0m][2026-03-03 18:39:44 +0000] [669] [INFO] Application startup complete.
+[2m2026-03-03T18:39:44Z[0m health[90807799a69568] [32mgru[0m [[34minfo[0m]Health check 'servicecheck-00-http-8000' on port 8000 is now passing.
+[2m2026-03-03T18:39:44Z[0m proxy[90807799a69568] [32mgru[0m [[34minfo[0m]machine became reachable in 4.055793344s

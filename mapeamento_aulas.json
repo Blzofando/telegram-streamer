@@ -3709,1845 +3709,3371 @@
     "tamanho_mb": 41.17,
     "duracao": 0
   },
-  "css-F263": {
+  "html11-F263": {
     "message_id": 264,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F263 13. Padrão 7-1\n\n15. Extensão - SASS",
+    "titulo_completo": "#F263 ext1\n\n15. Extensão - SASS\n=13. Padrão 7-1 - Indexado por @DevWorldHub",
     "tamanho_mb": 69.22,
     "duracao": 0
   },
-  "css-F262": {
+  "html11-F262": {
     "message_id": 263,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F262 12. Build Compile, Prefix and Compress\n\n15. Extensão - SASS",
+    "titulo_completo": "#F262 ext1\n\n15. Extensão - SASS\n=12. Build Compile, Prefix and Compress - Indexado por @DevWorldHub",
     "tamanho_mb": 188.87,
     "duracao": 0
   },
-  "css-F261": {
+  "html11-F261": {
     "message_id": 262,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F261 11. Content e If\n\n15. Extensão - SASS",
+    "titulo_completo": "#F261 ext1\n\n15. Extensão - SASS\n=11. Content e If - Indexado por @DevWorldHub",
     "tamanho_mb": 242.02,
     "duracao": 0
   },
-  "css-F260": {
+  "html11-F260": {
     "message_id": 261,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F260 10. Extends\n\n15. Extensão - SASS",
+    "titulo_completo": "#F260 ext1\n\n15. Extensão - SASS\n=10. Extends - Indexado por @DevWorldHub",
     "tamanho_mb": 113.56,
     "duracao": 0
   },
-  "css-F259": {
+  "html11-F259": {
     "message_id": 260,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F259 9. Mixins e Includes\n\n15. Extensão - SASS",
+    "titulo_completo": "#F259 ext1\n\n15. Extensão - SASS\n=9. Mixins e Includes - Indexado por @DevWorldHub",
     "tamanho_mb": 111.78,
     "duracao": 0
   },
-  "css-F258": {
+  "html11-F258": {
     "message_id": 259,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F258 8. Functions\n\n15. Extensão - SASS",
+    "titulo_completo": "#F258 ext1\n\n15. Extensão - SASS\n=8. Functions - Indexado por @DevWorldHub",
     "tamanho_mb": 66.11,
     "duracao": 0
   },
-  "css-F257": {
+  "html11-F257": {
     "message_id": 258,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F257 7. Nesting x Native Nesting\n\n15. Extensão - SASS",
+    "titulo_completo": "#F257 ext1\n\n15. Extensão - SASS\n=7. Nesting x Native Nesting - Indexado por @DevWorldHub",
     "tamanho_mb": 143.33,
     "duracao": 0
   },
-  "css-F256": {
+  "html11-F256": {
     "message_id": 257,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F256 6. Variáveis\n\n15. Extensão - SASS",
+    "titulo_completo": "#F256 ext1\n\n15. Extensão - SASS\n=6. Variáveis - Indexado por @DevWorldHub",
     "tamanho_mb": 122.78,
     "duracao": 0
   },
-  "css-F255": {
+  "html11-F255": {
     "message_id": 256,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F255 5. Criando e compilando nosso primeiro código\n\n15. Extensão - SASS",
+    "titulo_completo": "#F255 ext1\n\n15. Extensão - SASS\n=5. Criando e compilando nosso primeiro código - Indexado por @DevWorldHub",
     "tamanho_mb": 91.45,
     "duracao": 0
   },
-  "css-F254": {
+  "html11-F254": {
     "message_id": 255,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F254 4. Instalando o NodeJS, NPM e SASS\n\n15. Extensão - SASS",
+    "titulo_completo": "#F254 ext1\n\n15. Extensão - SASS\n=4. Instalando o NodeJS, NPM e SASS - Indexado por @DevWorldHub",
     "tamanho_mb": 60.23,
     "duracao": 0
   },
-  "css-F253": {
+  "html11-F253": {
     "message_id": 254,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F253 3. O que é NodeJS e o que é NPM\n\n15. Extensão - SASS",
+    "titulo_completo": "#F253 ext1\n\n15. Extensão - SASS\n=3. O que é NodeJS e o que é NPM - Indexado por @DevWorldHub",
     "tamanho_mb": 20.02,
     "duracao": 0
   },
-  "css-F252": {
+  "html11-F252": {
     "message_id": 253,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F252 2. O que é SASS\n\n15. Extensão - SASS",
+    "titulo_completo": "#F252 ext1\n\n15. Extensão - SASS\n=2. O que é SASS - Indexado por @DevWorldHub",
     "tamanho_mb": 34.81,
     "duracao": 0
   },
-  "css-F251": {
+  "html11-F251": {
     "message_id": 252,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F251 1. Apresentação do Módulo\n\n15. Extensão - SASS",
+    "titulo_completo": "#F251 ext1\n\n15. Extensão - SASS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 16.57,
     "duracao": 0
   },
-  "css-F250": {
+  "html11-F250": {
     "message_id": 251,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F250 8. Desafio - Gabarito\n\n14. Metodologia BEM",
+    "titulo_completo": "#F250 ext1\n\n14. Metodologia BEM\n=8. Desafio - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 272.6,
     "duracao": 0
   },
-  "css-F249": {
+  "html11-F249": {
     "message_id": 250,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F249 7. Desafio - Apresentação\n\n14. Metodologia BEM",
+    "titulo_completo": "#F249 ext1\n\n14. Metodologia BEM\n=7. Desafio - Apresentação - Indexado por @DevWorldHub",
     "tamanho_mb": 15.9,
     "duracao": 0
   },
-  "css-F248": {
+  "html11-F248": {
     "message_id": 249,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F248 6. Exemplo prático\n\n14. Metodologia BEM",
+    "titulo_completo": "#F248 ext1\n\n14. Metodologia BEM\n=6. Exemplo prático - Indexado por @DevWorldHub",
     "tamanho_mb": 284.58,
     "duracao": 0
   },
-  "css-F247": {
+  "html11-F247": {
     "message_id": 248,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F247 5. Cuidados e Observações\n\n14. Metodologia BEM",
+    "titulo_completo": "#F247 ext1\n\n14. Metodologia BEM\n=5. Cuidados e Observações - Indexado por @DevWorldHub",
     "tamanho_mb": 53.46,
     "duracao": 0
   },
-  "css-F246": {
+  "html11-F246": {
     "message_id": 247,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F246 4. Vantagens, Desvantagens e Conclusão\n\n14. Metodologia BEM",
+    "titulo_completo": "#F246 ext1\n\n14. Metodologia BEM\n=4. Vantagens, Desvantagens e Conclusão - Indexado por @DevWorldHub",
     "tamanho_mb": 94.46,
     "duracao": 0
   },
-  "css-F245": {
+  "html11-F245": {
     "message_id": 246,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F245 3. Exemplos da Metotologia\n\n14. Metodologia BEM",
+    "titulo_completo": "#F245 ext1\n\n14. Metodologia BEM\n=3. Exemplos da Metotologia - Indexado por @DevWorldHub",
     "tamanho_mb": 54.65,
     "duracao": 0
   },
-  "css-F244": {
+  "html11-F244": {
     "message_id": 245,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F244 2. Como funciona a Metodologia\n\n14. Metodologia BEM",
+    "titulo_completo": "#F244 ext1\n\n14. Metodologia BEM\n=2. Como funciona a Metodologia - Indexado por @DevWorldHub",
     "tamanho_mb": 83.9,
     "duracao": 0
   },
-  "css-F243": {
+  "html11-F243": {
     "message_id": 244,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F243 1. Apresentação do Módulo\n\n14. Metodologia BEM",
+    "titulo_completo": "#F243 ext1\n\n14. Metodologia BEM\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 12.63,
     "duracao": 0
   },
-  "css-F242": {
+  "html11-F242": {
     "message_id": 243,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F242 1. Apresentação do Módulo\n\n14. Extensão - SASS",
+    "titulo_completo": "#F242 ext1\n\n14. Extensão - SASS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 16.57,
     "duracao": 0
   },
-  "css-F241": {
+  "html11-F241": {
     "message_id": 242,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F241 8. Desafio - Gabarito\n\n13. Metodologia BEM",
+    "titulo_completo": "#F241 ext1\n\n13. Metodologia BEM\n=8. Desafio - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 272.6,
     "duracao": 0
   },
-  "css-F240": {
+  "html11-F240": {
     "message_id": 241,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F240 7. Desafio - Apresentação\n\n13. Metodologia BEM",
+    "titulo_completo": "#F240 ext1\n\n13. Metodologia BEM\n=7. Desafio - Apresentação - Indexado por @DevWorldHub",
     "tamanho_mb": 15.9,
     "duracao": 0
   },
-  "css-F239": {
+  "html11-F239": {
     "message_id": 240,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F239 6. Exemplo prático\n\n13. Metodologia BEM",
+    "titulo_completo": "#F239 ext1\n\n13. Metodologia BEM\n=6. Exemplo prático - Indexado por @DevWorldHub",
     "tamanho_mb": 284.58,
     "duracao": 0
   },
-  "css-F238": {
+  "html11-F238": {
     "message_id": 239,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F238 5. Cuidados e Observações\n\n13. Metodologia BEM",
+    "titulo_completo": "#F238 ext1_2\n\n13. Metodologia BEM\n=5. Cuidados e Observações - Indexado por @DevWorldHub",
     "tamanho_mb": 53.46,
     "duracao": 0
   },
-  "css-F237": {
+  "html11-F237": {
     "message_id": 238,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F237 5. Cuidados e Observações\n\n13. Metodologia BEM",
+    "titulo_completo": "#F237 ext1.temp\n\n13. Metodologia BEM\n=5. Cuidados e Observações - Indexado por @DevWorldHub",
     "tamanho_mb": 53.46,
     "duracao": 0
   },
-  "css-F236": {
+  "html11-F236": {
     "message_id": 237,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F236 4. Vantagens, Desvantagens e Conclusão\n\n13. Metodologia BEM",
+    "titulo_completo": "#F236 ext1\n\n13. Metodologia BEM\n=4. Vantagens, Desvantagens e Conclusão - Indexado por @DevWorldHub",
     "tamanho_mb": 94.46,
     "duracao": 0
   },
-  "css-F235": {
+  "html11-F235": {
     "message_id": 236,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F235 3. Exemplos da Metotologia\n\n13. Metodologia BEM",
+    "titulo_completo": "#F235 ext1\n\n13. Metodologia BEM\n=3. Exemplos da Metotologia - Indexado por @DevWorldHub",
     "tamanho_mb": 54.65,
     "duracao": 0
   },
-  "css-F234": {
+  "html11-F234": {
     "message_id": 235,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F234 2. Como funciona a Metodologia\n\n13. Metodologia BEM",
+    "titulo_completo": "#F234 ext1\n\n13. Metodologia BEM\n=2. Como funciona a Metodologia - Indexado por @DevWorldHub",
     "tamanho_mb": 83.9,
     "duracao": 0
   },
-  "css-F233": {
+  "html11-F233": {
     "message_id": 234,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F233 1. Apresentação do Módulo\n\n13. Metodologia BEM",
+    "titulo_completo": "#F233 ext1\n\n13. Metodologia BEM\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 12.63,
     "duracao": 0
   },
-  "css-F232": {
+  "html11-F232": {
     "message_id": 233,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F232 4. Desafio - Gabarito\n\n13. Float no CSS",
+    "titulo_completo": "#F232 ext1\n\n13. Float no CSS\n=4. Desafio - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 214.57,
     "duracao": 0
   },
-  "css-F231": {
+  "html11-F231": {
     "message_id": 232,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F231 3. Desafio - Construindo um layout com float\n\n13. Float no CSS",
+    "titulo_completo": "#F231 ext1\n\n13. Float no CSS\n=3. Desafio - Construindo um layout com float - Indexado por @DevWorldHub",
     "tamanho_mb": 7.37,
     "duracao": 0
   },
-  "css-F230": {
+  "html11-F230": {
     "message_id": 231,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F230 2. Como usar as propriedades float e clear\n\n13. Float no CSS",
+    "titulo_completo": "#F230 ext1\n\n13. Float no CSS\n=2. Como usar as propriedades float e clear - Indexado por @DevWorldHub",
     "tamanho_mb": 155.59,
     "duracao": 0
   },
-  "css-F229": {
+  "html11-F229": {
     "message_id": 230,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F229 1. Apresentação do Módulo\n\n13. Float no CSS",
+    "titulo_completo": "#F229 ext1\n\n13. Float no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 21.22,
     "duracao": 0
   },
-  "css-F228": {
+  "html11-F228": {
     "message_id": 229,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F228 30. Desafio 2 - Deploy - Colocando a nossa página no ar\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F228 ext1\n\n12. Responsividade e Otimizações\n=30. Desafio 2 - Deploy - Colocando a nossa página no ar - Indexado por @DevWorldHub",
     "tamanho_mb": 52.86,
     "duracao": 0
   },
-  "css-F227": {
+  "html11-F227": {
     "message_id": 228,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F227 29. Desafio 2 - Otimizando a Home da Hashtag\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F227 ext1\n\n12. Responsividade e Otimizações\n=29. Desafio 2 - Otimizando a Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 529.81,
     "duracao": 0
   },
-  "css-F226": {
+  "html11-F226": {
     "message_id": 227,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F226 28. Desafio 2 - Finalizando a Navegação Mobile\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F226 ext1\n\n12. Responsividade e Otimizações\n=28. Desafio 2 - Finalizando a Navegação Mobile - Indexado por @DevWorldHub",
     "tamanho_mb": 230.16,
     "duracao": 0
   },
-  "css-F225": {
+  "html11-F225": {
     "message_id": 226,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F225 27. Desafio 2 - Criando a Navegação Mobile\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F225 ext1\n\n12. Responsividade e Otimizações\n=27. Desafio 2 - Criando a Navegação Mobile - Indexado por @DevWorldHub",
     "tamanho_mb": 296.09,
     "duracao": 0
   },
-  "css-F224": {
+  "html11-F224": {
     "message_id": 225,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F224 26. Desafio 2 - Finalizando a última Media Query\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F224 ext1\n\n12. Responsividade e Otimizações\n=26. Desafio 2 - Finalizando a última Media Query - Indexado por @DevWorldHub",
     "tamanho_mb": 280.9,
     "duracao": 0
   },
-  "css-F223": {
+  "html11-F223": {
     "message_id": 224,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F223 25. Desafio 2 - Última Media Query para as Seções Diferenciais, O que falam e Na mídia\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F223 ext1\n\n12. Responsividade e Otimizações\n=25. Desafio 2 - Última Media Query para as Seções Diferenciais, O que falam e Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 155.49,
     "duracao": 0
   },
-  "css-F222": {
+  "html11-F222": {
     "message_id": 223,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F222 24. Desafio 2 - Última Media Query para a Seção Hero e Conteúdos\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F222 ext1\n\n12. Responsividade e Otimizações\n=24. Desafio 2 - Última Media Query para a Seção Hero e Conteúdos - Indexado por @DevWorldHub",
     "tamanho_mb": 171.48,
     "duracao": 0
   },
-  "css-F221": {
+  "html11-F221": {
     "message_id": 222,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F221 23. Desafio 2 - Finalizando o Layout da Media Query de 767 a 480\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F221 ext1\n\n12. Responsividade e Otimizações\n=23. Desafio 2 - Finalizando o Layout da Media Query de 767 a 480 - Indexado por @DevWorldHub",
     "tamanho_mb": 176.34,
     "duracao": 0
   },
-  "css-F220": {
+  "html11-F220": {
     "message_id": 221,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F220 22. Desafio 2 - Alterando o Layout da Seção Blog\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F220 ext1\n\n12. Responsividade e Otimizações\n=22. Desafio 2 - Alterando o Layout da Seção Blog - Indexado por @DevWorldHub",
     "tamanho_mb": 69.31,
     "duracao": 0
   },
-  "css-F219": {
+  "html11-F219": {
     "message_id": 220,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F219 21. Desafio 2 - Alterando o Layout da Seção Na mídia\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F219 ext1\n\n12. Responsividade e Otimizações\n=21. Desafio 2 - Alterando o Layout da Seção Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 77.19,
     "duracao": 0
   },
-  "css-F218": {
+  "html11-F218": {
     "message_id": 219,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F218 20. Desafio 2 - Alterando o Layout da Seção O que falam\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F218 ext1\n\n12. Responsividade e Otimizações\n=20. Desafio 2 - Alterando o Layout da Seção O que falam - Indexado por @DevWorldHub",
     "tamanho_mb": 281.6,
     "duracao": 0
   },
-  "css-F217": {
+  "html11-F217": {
     "message_id": 218,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F217 19. Desafio 2 - Alterando o Layout da Seção Diferenciais\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F217 ext1\n\n12. Responsividade e Otimizações\n=19. Desafio 2 - Alterando o Layout da Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 132.26,
     "duracao": 0
   },
-  "css-F216": {
+  "html11-F216": {
     "message_id": 217,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F216 18. Desafio 2 - Alterando o Layout da Seção Conteúdos Gratuitos\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F216 ext1\n\n12. Responsividade e Otimizações\n=18. Desafio 2 - Alterando o Layout da Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 167.04,
     "duracao": 0
   },
-  "css-F215": {
+  "html11-F215": {
     "message_id": 216,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F215 17. Desafio 2 - Alterando o Layout da Seção Hero\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F215 ext1\n\n12. Responsividade e Otimizações\n=17. Desafio 2 - Alterando o Layout da Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 121.7,
     "duracao": 0
   },
-  "css-F214": {
+  "html11-F214": {
     "message_id": 215,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F214 16. Desafio 2 - Alterando a página inteira mudando uma única coisa\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F214 ext1\n\n12. Responsividade e Otimizações\n=16. Desafio 2 - Alterando a página inteira mudando uma única coisa - Indexado por @DevWorldHub",
     "tamanho_mb": 324.51,
     "duracao": 0
   },
-  "css-F213": {
+  "html11-F213": {
     "message_id": 214,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F213 15. Desafio 2 - Criando a primeira Media Query\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F213 ext1\n\n12. Responsividade e Otimizações\n=15. Desafio 2 - Criando a primeira Media Query - Indexado por @DevWorldHub",
     "tamanho_mb": 302.1,
     "duracao": 0
   },
-  "css-F212": {
+  "html11-F212": {
     "message_id": 213,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F212 14. Desafio 2 - Deixando a Home da Hashtag responsiva\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F212 ext1\n\n12. Responsividade e Otimizações\n=14. Desafio 2 - Deixando a Home da Hashtag responsiva - Indexado por @DevWorldHub",
     "tamanho_mb": 47.04,
     "duracao": 0
   },
-  "css-F211": {
+  "html11-F211": {
     "message_id": 212,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F211 13. Carregamento do CSS e Arquivos de Estilização\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F211 ext1\n\n12. Responsividade e Otimizações\n=13. Carregamento do CSS e Arquivos de Estilização - Indexado por @DevWorldHub",
     "tamanho_mb": 111.11,
     "duracao": 0
   },
-  "css-F210": {
+  "html11-F210": {
     "message_id": 211,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F210 12. Lazy Loading\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F210 ext1\n\n12. Responsividade e Otimizações\n=12. Lazy Loading - Indexado por @DevWorldHub",
     "tamanho_mb": 91.14,
     "duracao": 0
   },
-  "css-F209": {
+  "html11-F209": {
     "message_id": 210,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F209 11. Importando Fontes\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F209 ext1\n\n12. Responsividade e Otimizações\n=11. Importando Fontes - Indexado por @DevWorldHub",
     "tamanho_mb": 240.92,
     "duracao": 0
   },
-  "css-F208": {
+  "html11-F208": {
     "message_id": 209,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F208 10. Variáveis no CSS\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F208 ext1\n\n12. Responsividade e Otimizações\n=10. Variáveis no CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 167.2,
     "duracao": 0
   },
-  "css-F207": {
+  "html11-F207": {
     "message_id": 208,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F207 9. Imagens responsivas - CSS\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F207 ext1\n\n12. Responsividade e Otimizações\n=9. Imagens responsivas - CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 152.93,
     "duracao": 0
   },
-  "css-F206": {
+  "html11-F206": {
     "message_id": 207,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F206 8. Imagens responsivas - Tag Picture\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F206 ext1\n\n12. Responsividade e Otimizações\n=8. Imagens responsivas - Tag Picture - Indexado por @DevWorldHub",
     "tamanho_mb": 78.03,
     "duracao": 0
   },
-  "css-F205": {
+  "html11-F205": {
     "message_id": 206,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F205 7. Imagens responsivas - Tag Img - 22\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F205 ext1\n\n12. Responsividade e Otimizações\n=7. Imagens responsivas - Tag Img - 22 - Indexado por @DevWorldHub",
     "tamanho_mb": 126.47,
     "duracao": 0
   },
-  "css-F204": {
+  "html11-F204": {
     "message_id": 205,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F204 6. O que é DPR\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F204 ext1\n\n12. Responsividade e Otimizações\n=6. O que é DPR - Indexado por @DevWorldHub",
     "tamanho_mb": 62.9,
     "duracao": 0
   },
-  "css-F203": {
+  "html11-F203": {
     "message_id": 204,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F203 5. Imagens responsivas - Tag Img - 12\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F203 ext1\n\n12. Responsividade e Otimizações\n=5. Imagens responsivas - Tag Img - 12 - Indexado por @DevWorldHub",
     "tamanho_mb": 308.72,
     "duracao": 0
   },
-  "css-F202": {
+  "html11-F202": {
     "message_id": 203,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F202 4. Escolhendo as Media Queries\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F202 ext1\n\n12. Responsividade e Otimizações\n=4. Escolhendo as Media Queries - Indexado por @DevWorldHub",
     "tamanho_mb": 95.17,
     "duracao": 0
   },
-  "css-F201": {
+  "html11-F201": {
     "message_id": 202,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F201 3. Desktop x Mobile First\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F201 ext1\n\n12. Responsividade e Otimizações\n=3. Desktop x Mobile First - Indexado por @DevWorldHub",
     "tamanho_mb": 54.43,
     "duracao": 0
   },
-  "css-F200": {
+  "html11-F200": {
     "message_id": 201,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F200 2. Media queries\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F200 ext1\n\n12. Responsividade e Otimizações\n=2. Media queries - Indexado por @DevWorldHub",
     "tamanho_mb": 91.63,
     "duracao": 0
   },
-  "css-F199": {
+  "html11-F199": {
     "message_id": 200,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F199 1. Apresentação do Módulo\n\n12. Responsividade e Otimizações",
+    "titulo_completo": "#F199 ext1\n\n12. Responsividade e Otimizações\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 27.71,
     "duracao": 0
   },
-  "css-F198": {
+  "html11-F198": {
     "message_id": 199,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F198 4. Desafio - Gabarito\n\n12. Float no CSS",
+    "titulo_completo": "#F198 ext1\n\n12. Float no CSS\n=4. Desafio - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 214.57,
     "duracao": 0
   },
-  "css-F197": {
+  "html11-F197": {
     "message_id": 198,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F197 3. Desafio - Construindo um layout com float\n\n12. Float no CSS",
+    "titulo_completo": "#F197 ext1\n\n12. Float no CSS\n=3. Desafio - Construindo um layout com float - Indexado por @DevWorldHub",
     "tamanho_mb": 7.37,
     "duracao": 0
   },
-  "css-F196": {
+  "html11-F196": {
     "message_id": 197,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F196 2. Como usar as propriedades float e clear\n\n12. Float no CSS",
+    "titulo_completo": "#F196 ext1\n\n12. Float no CSS\n=2. Como usar as propriedades float e clear - Indexado por @DevWorldHub",
     "tamanho_mb": 155.59,
     "duracao": 0
   },
-  "css-F195": {
+  "html11-F195": {
     "message_id": 196,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F195 1. Apresentação do Módulo\n\n12. Float no CSS",
+    "titulo_completo": "#F195 ext1\n\n12. Float no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 21.22,
     "duracao": 0
   },
-  "css-F194": {
+  "html11-F194": {
     "message_id": 195,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F194 30. Desafio 2 - Deploy - Colocando a nossa página no ar\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F194 ext1\n\n11. Responsividade e Otimizações\n=30. Desafio 2 - Deploy - Colocando a nossa página no ar - Indexado por @DevWorldHub",
     "tamanho_mb": 52.86,
     "duracao": 0
   },
-  "css-F193": {
+  "html11-F193": {
     "message_id": 194,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F193 29. Desafio 2 - Otimizando a Home da Hashtag\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F193 ext1\n\n11. Responsividade e Otimizações\n=29. Desafio 2 - Otimizando a Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 529.81,
     "duracao": 0
   },
-  "css-F192": {
+  "html11-F192": {
     "message_id": 193,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F192 28. Desafio 2 - Finalizando a Navegação Mobile\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F192 ext1\n\n11. Responsividade e Otimizações\n=28. Desafio 2 - Finalizando a Navegação Mobile - Indexado por @DevWorldHub",
     "tamanho_mb": 230.16,
     "duracao": 0
   },
-  "css-F191": {
+  "html11-F191": {
     "message_id": 192,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F191 27. Desafio 2 - Criando a Navegação Mobile\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F191 ext1\n\n11. Responsividade e Otimizações\n=27. Desafio 2 - Criando a Navegação Mobile - Indexado por @DevWorldHub",
     "tamanho_mb": 296.09,
     "duracao": 0
   },
-  "css-F190": {
+  "html11-F190": {
     "message_id": 191,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F190 26. Desafio 2 - Finalizando a última Media Query\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F190 ext1\n\n11. Responsividade e Otimizações\n=26. Desafio 2 - Finalizando a última Media Query - Indexado por @DevWorldHub",
     "tamanho_mb": 280.9,
     "duracao": 0
   },
-  "css-F189": {
+  "html11-F189": {
     "message_id": 190,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F189 25. Desafio 2 - Última Media Query para as Seções Diferenciais, O que falam e Na mídia\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F189 ext1\n\n11. Responsividade e Otimizações\n=25. Desafio 2 - Última Media Query para as Seções Diferenciais, O que falam e Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 155.49,
     "duracao": 0
   },
-  "css-F188": {
+  "html11-F188": {
     "message_id": 189,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F188 24. Desafio 2 - Última Media Query para a Seção Hero e Conteúdos\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F188 ext1\n\n11. Responsividade e Otimizações\n=24. Desafio 2 - Última Media Query para a Seção Hero e Conteúdos - Indexado por @DevWorldHub",
     "tamanho_mb": 171.48,
     "duracao": 0
   },
-  "css-F187": {
+  "html11-F187": {
     "message_id": 188,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F187 23. Desafio 2 - Finalizando o Layout da Media Query de 767 a 480\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F187 ext1\n\n11. Responsividade e Otimizações\n=23. Desafio 2 - Finalizando o Layout da Media Query de 767 a 480 - Indexado por @DevWorldHub",
     "tamanho_mb": 176.34,
     "duracao": 0
   },
-  "css-F186": {
+  "html11-F186": {
     "message_id": 187,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F186 22. Desafio 2 - Alterando o Layout da Seção Blog\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F186 ext1\n\n11. Responsividade e Otimizações\n=22. Desafio 2 - Alterando o Layout da Seção Blog - Indexado por @DevWorldHub",
     "tamanho_mb": 69.31,
     "duracao": 0
   },
-  "css-F185": {
+  "html11-F185": {
     "message_id": 186,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F185 21. Desafio 2 - Alterando o Layout da Seção Na mídia\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F185 ext1\n\n11. Responsividade e Otimizações\n=21. Desafio 2 - Alterando o Layout da Seção Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 77.19,
     "duracao": 0
   },
-  "css-F184": {
+  "html11-F184": {
     "message_id": 185,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F184 20. Desafio 2 - Alterando o Layout da Seção O que falam\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F184 ext1\n\n11. Responsividade e Otimizações\n=20. Desafio 2 - Alterando o Layout da Seção O que falam - Indexado por @DevWorldHub",
     "tamanho_mb": 281.6,
     "duracao": 0
   },
-  "css-F183": {
+  "html11-F183": {
     "message_id": 184,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F183 19. Desafio 2 - Alterando o Layout da Seção Diferenciais\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F183 ext1\n\n11. Responsividade e Otimizações\n=19. Desafio 2 - Alterando o Layout da Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 132.26,
     "duracao": 0
   },
-  "css-F182": {
+  "html11-F182": {
     "message_id": 183,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F182 18. Desafio 2 - Alterando o Layout da Seção Conteúdos Gratuitos\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F182 ext1\n\n11. Responsividade e Otimizações\n=18. Desafio 2 - Alterando o Layout da Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 167.04,
     "duracao": 0
   },
-  "css-F181": {
+  "html11-F181": {
     "message_id": 182,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F181 17. Desafio 2 - Alterando o Layout da Seção Hero\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F181 ext1\n\n11. Responsividade e Otimizações\n=17. Desafio 2 - Alterando o Layout da Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 121.7,
     "duracao": 0
   },
-  "css-F180": {
+  "html11-F180": {
     "message_id": 181,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F180 16. Desafio 2 - Alterando a página inteira mudando uma única coisa\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F180 ext1\n\n11. Responsividade e Otimizações\n=16. Desafio 2 - Alterando a página inteira mudando uma única coisa - Indexado por @DevWorldHub",
     "tamanho_mb": 324.51,
     "duracao": 0
   },
-  "css-F179": {
+  "html11-F179": {
     "message_id": 180,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F179 15. Desafio 2 - Criando a primeira Media Query\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F179 ext1\n\n11. Responsividade e Otimizações\n=15. Desafio 2 - Criando a primeira Media Query - Indexado por @DevWorldHub",
     "tamanho_mb": 302.1,
     "duracao": 0
   },
-  "css-F178": {
+  "html11-F178": {
     "message_id": 179,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F178 14. Desafio 2 - Deixando a Home da Hashtag responsiva\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F178 ext1\n\n11. Responsividade e Otimizações\n=14. Desafio 2 - Deixando a Home da Hashtag responsiva - Indexado por @DevWorldHub",
     "tamanho_mb": 47.04,
     "duracao": 0
   },
-  "css-F177": {
+  "html11-F177": {
     "message_id": 178,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F177 13. Carregamento do CSS e Arquivos de Estilização\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F177 ext1\n\n11. Responsividade e Otimizações\n=13. Carregamento do CSS e Arquivos de Estilização - Indexado por @DevWorldHub",
     "tamanho_mb": 111.11,
     "duracao": 0
   },
-  "css-F176": {
+  "html11-F176": {
     "message_id": 177,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F176 12. Lazy Loading\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F176 ext1\n\n11. Responsividade e Otimizações\n=12. Lazy Loading - Indexado por @DevWorldHub",
     "tamanho_mb": 91.14,
     "duracao": 0
   },
-  "css-F175": {
+  "html11-F175": {
     "message_id": 176,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F175 11. Importando Fontes\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F175 ext1\n\n11. Responsividade e Otimizações\n=11. Importando Fontes - Indexado por @DevWorldHub",
     "tamanho_mb": 240.92,
     "duracao": 0
   },
-  "css-F174": {
+  "html11-F174": {
     "message_id": 175,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F174 10. Variáveis no CSS\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F174 ext1\n\n11. Responsividade e Otimizações\n=10. Variáveis no CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 167.2,
     "duracao": 0
   },
-  "css-F173": {
+  "html11-F173": {
     "message_id": 174,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F173 9. Imagens responsivas - CSS\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F173 ext1\n\n11. Responsividade e Otimizações\n=9. Imagens responsivas - CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 152.93,
     "duracao": 0
   },
-  "css-F172": {
+  "html11-F172": {
     "message_id": 173,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F172 8. Imagens responsivas - Tag Picture\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F172 ext1\n\n11. Responsividade e Otimizações\n=8. Imagens responsivas - Tag Picture - Indexado por @DevWorldHub",
     "tamanho_mb": 78.03,
     "duracao": 0
   },
-  "css-F171": {
+  "html11-F171": {
     "message_id": 172,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F171 7. Imagens responsivas - Tag Img - 22\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F171 ext1\n\n11. Responsividade e Otimizações\n=7. Imagens responsivas - Tag Img - 22 - Indexado por @DevWorldHub",
     "tamanho_mb": 126.47,
     "duracao": 0
   },
-  "css-F170": {
+  "html11-F170": {
     "message_id": 171,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F170 6. O que é DPR\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F170 ext1\n\n11. Responsividade e Otimizações\n=6. O que é DPR - Indexado por @DevWorldHub",
     "tamanho_mb": 62.9,
     "duracao": 0
   },
-  "css-F169": {
+  "html11-F169": {
     "message_id": 170,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F169 5. Imagens responsivas - Tag Img - 12\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F169 ext1\n\n11. Responsividade e Otimizações\n=5. Imagens responsivas - Tag Img - 12 - Indexado por @DevWorldHub",
     "tamanho_mb": 308.72,
     "duracao": 0
   },
-  "css-F168": {
+  "html11-F168": {
     "message_id": 169,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F168 4. Escolhendo as Media Queries\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F168 ext1\n\n11. Responsividade e Otimizações\n=4. Escolhendo as Media Queries - Indexado por @DevWorldHub",
     "tamanho_mb": 95.17,
     "duracao": 0
   },
-  "css-F167": {
+  "html11-F167": {
     "message_id": 168,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F167 3. Desktop x Mobile First\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F167 ext1\n\n11. Responsividade e Otimizações\n=3. Desktop x Mobile First - Indexado por @DevWorldHub",
     "tamanho_mb": 54.43,
     "duracao": 0
   },
-  "css-F166": {
+  "html11-F166": {
     "message_id": 167,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F166 2. Media queries\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F166 ext1\n\n11. Responsividade e Otimizações\n=2. Media queries - Indexado por @DevWorldHub",
     "tamanho_mb": 91.63,
     "duracao": 0
   },
-  "css-F165": {
+  "html11-F165": {
     "message_id": 166,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F165 1. Apresentação do Módulo\n\n11. Responsividade e Otimizações",
+    "titulo_completo": "#F165 ext1\n\n11. Responsividade e Otimizações\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 27.71,
     "duracao": 0
   },
-  "css-F164": {
+  "html11-F164": {
     "message_id": 165,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F164 11. Desafio 2 - Gabarito\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F164 ext1\n\n11. Animações e Efeitos no CSS\n=11. Desafio 2 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 298.82,
     "duracao": 0
   },
-  "css-F163": {
+  "html11-F163": {
     "message_id": 164,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F163 10. Desafio 2 - Transições na Home da Hashtag\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F163 ext1\n\n11. Animações e Efeitos no CSS\n=10. Desafio 2 - Transições na Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 15.63,
     "duracao": 0
   },
-  "css-F162": {
+  "html11-F162": {
     "message_id": 163,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F162 9. Desafio 1 - Gabarito\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F162 ext1\n\n11. Animações e Efeitos no CSS\n=9. Desafio 1 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 156.5,
     "duracao": 0
   },
-  "css-F161": {
+  "html11-F161": {
     "message_id": 162,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F161 8. Desafio 1 - Criando um Elementos Animado\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F161 ext1\n\n11. Animações e Efeitos no CSS\n=8. Desafio 1 - Criando um Elementos Animado - Indexado por @DevWorldHub",
     "tamanho_mb": 17.69,
     "duracao": 0
   },
-  "css-F160": {
+  "html11-F160": {
     "message_id": 161,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F160 7. Animation e suas propriedades\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F160 ext1\n\n11. Animações e Efeitos no CSS\n=7. Animation e suas propriedades - Indexado por @DevWorldHub",
     "tamanho_mb": 217.81,
     "duracao": 0
   },
-  "css-F159": {
+  "html11-F159": {
     "message_id": 160,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F159 6. Keyframes\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F159 ext1\n\n11. Animações e Efeitos no CSS\n=6. Keyframes - Indexado por @DevWorldHub",
     "tamanho_mb": 73.83,
     "duracao": 0
   },
-  "css-F158": {
+  "html11-F158": {
     "message_id": 159,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F158 5. Efeitos 3D\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F158 ext1\n\n11. Animações e Efeitos no CSS\n=5. Efeitos 3D - Indexado por @DevWorldHub",
     "tamanho_mb": 267.89,
     "duracao": 0
   },
-  "css-F157": {
+  "html11-F157": {
     "message_id": 158,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F157 4. Efeitos 2D\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F157 ext1\n\n11. Animações e Efeitos no CSS\n=4. Efeitos 2D - Indexado por @DevWorldHub",
     "tamanho_mb": 271.23,
     "duracao": 0
   },
-  "css-F156": {
+  "html11-F156": {
     "message_id": 157,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F156 3. Transições - 2-2\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F156 ext1\n\n11. Animações e Efeitos no CSS\n=3. Transições - 2-2 - Indexado por @DevWorldHub",
     "tamanho_mb": 152.4,
     "duracao": 0
   },
-  "css-F155": {
+  "html11-F155": {
     "message_id": 156,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F155 2. Transições - 1-2\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F155 ext1\n\n11. Animações e Efeitos no CSS\n=2. Transições - 1-2 - Indexado por @DevWorldHub",
     "tamanho_mb": 210.4,
     "duracao": 0
   },
-  "css-F154": {
+  "html11-F154": {
     "message_id": 155,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F154 1. Apresentação do Módulo\n\n11. Animações e Efeitos no CSS",
+    "titulo_completo": "#F154 ext1\n\n11. Animações e Efeitos no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 7.63,
     "duracao": 0
   },
-  "css-F153": {
+  "html11-F153": {
     "message_id": 154,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F153 1. O que vem pela frente\n\n10. Checkpoint",
+    "titulo_completo": "#F153 ext1\n\n10. Checkpoint\n=1. O que vem pela frente - Indexado por @DevWorldHub",
     "tamanho_mb": 64.44,
     "duracao": 0
   },
-  "css-F152": {
+  "html11-F152": {
     "message_id": 153,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F152 11. Desafio 2 - Gabarito\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F152 ext1\n\n10. Animações e Efeitos no CSS\n=11. Desafio 2 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 298.82,
     "duracao": 0
   },
-  "css-F151": {
+  "html11-F151": {
     "message_id": 152,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F151 10. Desafio 2 - Transições na Home da Hashtag\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F151 ext1\n\n10. Animações e Efeitos no CSS\n=10. Desafio 2 - Transições na Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 15.63,
     "duracao": 0
   },
-  "css-F150": {
+  "html11-F150": {
     "message_id": 151,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F150 9. Desafio 1 - Gabarito\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F150 ext1\n\n10. Animações e Efeitos no CSS\n=9. Desafio 1 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 156.5,
     "duracao": 0
   },
-  "css-F149": {
+  "html11-F149": {
     "message_id": 150,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F149 8. Desafio 1 - Criando um Elementos Animado\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F149 ext1\n\n10. Animações e Efeitos no CSS\n=8. Desafio 1 - Criando um Elementos Animado - Indexado por @DevWorldHub",
     "tamanho_mb": 17.69,
     "duracao": 0
   },
-  "css-F148": {
+  "html11-F148": {
     "message_id": 149,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F148 7. Animation e suas propriedades\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F148 ext1\n\n10. Animações e Efeitos no CSS\n=7. Animation e suas propriedades - Indexado por @DevWorldHub",
     "tamanho_mb": 216.93,
     "duracao": 0
   },
-  "css-F147": {
+  "html11-F147": {
     "message_id": 148,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F147 6. Keyframes\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F147 ext1\n\n10. Animações e Efeitos no CSS\n=6. Keyframes - Indexado por @DevWorldHub",
     "tamanho_mb": 73.83,
     "duracao": 0
   },
-  "css-F146": {
+  "html11-F146": {
     "message_id": 147,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F146 5. Efeitos 3D\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F146 ext1\n\n10. Animações e Efeitos no CSS\n=5. Efeitos 3D - Indexado por @DevWorldHub",
     "tamanho_mb": 267.89,
     "duracao": 0
   },
-  "css-F145": {
+  "html11-F145": {
     "message_id": 146,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F145 4. Efeitos 2D\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F145 ext1\n\n10. Animações e Efeitos no CSS\n=4. Efeitos 2D - Indexado por @DevWorldHub",
     "tamanho_mb": 271.23,
     "duracao": 0
   },
-  "css-F144": {
+  "html11-F144": {
     "message_id": 145,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F144 3. Transições - 2-2\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F144 ext1\n\n10. Animações e Efeitos no CSS\n=3. Transições - 2-2 - Indexado por @DevWorldHub",
     "tamanho_mb": 152.4,
     "duracao": 0
   },
-  "css-F143": {
+  "html11-F143": {
     "message_id": 144,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F143 2. Transições - 1-2\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F143 ext1\n\n10. Animações e Efeitos no CSS\n=2. Transições - 1-2 - Indexado por @DevWorldHub",
     "tamanho_mb": 210.4,
     "duracao": 0
   },
-  "css-F142": {
+  "html11-F142": {
     "message_id": 143,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F142 1. Apresentação do Módulo\n\n10. Animações e Efeitos no CSS",
+    "titulo_completo": "#F142 ext1\n\n10. Animações e Efeitos no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 7.63,
     "duracao": 0
   },
-  "css-F141": {
+  "html11-F141": {
     "message_id": 142,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F141 13. Desafio 2 - Gabarito\n\n9. Grid no CSS",
+    "titulo_completo": "#F141 ext1\n\n9. Grid no CSS\n=13. Desafio 2 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 62.06,
     "duracao": 0
   },
-  "css-F140": {
+  "html11-F140": {
     "message_id": 141,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F140 12. Desafio 2 - Usando Grid na Seção Blog\n\n9. Grid no CSS",
+    "titulo_completo": "#F140 ext1\n\n9. Grid no CSS\n=12. Desafio 2 - Usando Grid na Seção Blog - Indexado por @DevWorldHub",
     "tamanho_mb": 29.0,
     "duracao": 0
   },
-  "css-F139": {
+  "html11-F139": {
     "message_id": 140,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F139 11. Desafio 1 - Gabarito\n\n9. Grid no CSS",
+    "titulo_completo": "#F139 ext1\n\n9. Grid no CSS\n=11. Desafio 1 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 198.03,
     "duracao": 0
   },
-  "css-F138": {
+  "html11-F138": {
     "message_id": 139,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F138 10. Desafio 1 - Construindo um layout com Grid\n\n9. Grid no CSS",
+    "titulo_completo": "#F138 ext1\n\n9. Grid no CSS\n=10. Desafio 1 - Construindo um layout com Grid - Indexado por @DevWorldHub",
     "tamanho_mb": 26.15,
     "duracao": 0
   },
-  "css-F137": {
+  "html11-F137": {
     "message_id": 138,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F137 9. Alinhamento dos elementos\n\n9. Grid no CSS",
+    "titulo_completo": "#F137 ext1\n\n9. Grid no CSS\n=9. Alinhamento dos elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 47.92,
     "duracao": 0
   },
-  "css-F136": {
+  "html11-F136": {
     "message_id": 137,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F136 8. Áreas dentro da Grade\n\n9. Grid no CSS",
+    "titulo_completo": "#F136 ext1\n\n9. Grid no CSS\n=8. Áreas dentro da Grade - Indexado por @DevWorldHub",
     "tamanho_mb": 92.26,
     "duracao": 0
   },
-  "css-F135": {
+  "html11-F135": {
     "message_id": 136,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F135 7. Espaçamento entre os elementos\n\n9. Grid no CSS",
+    "titulo_completo": "#F135 ext1\n\n9. Grid no CSS\n=7. Espaçamento entre os elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 27.09,
     "duracao": 0
   },
-  "css-F134": {
+  "html11-F134": {
     "message_id": 135,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F134 6. Posicionando os elementos\n\n9. Grid no CSS",
+    "titulo_completo": "#F134 ext1\n\n9. Grid no CSS\n=6. Posicionando os elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 101.08,
     "duracao": 0
   },
-  "css-F133": {
+  "html11-F133": {
     "message_id": 134,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F133 5. Propriedade Grid\n\n9. Grid no CSS",
+    "titulo_completo": "#F133 ext1\n\n9. Grid no CSS\n=5. Propriedade Grid - Indexado por @DevWorldHub",
     "tamanho_mb": 77.19,
     "duracao": 0
   },
-  "css-F132": {
+  "html11-F132": {
     "message_id": 133,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F132 4. Definindo as colunas da Grade\n\n9. Grid no CSS",
+    "titulo_completo": "#F132 ext1\n\n9. Grid no CSS\n=4. Definindo as colunas da Grade - Indexado por @DevWorldHub",
     "tamanho_mb": 60.2,
     "duracao": 0
   },
-  "css-F131": {
+  "html11-F131": {
     "message_id": 132,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F131 3. Definindo as linhas da Grade\n\n9. Grid no CSS",
+    "titulo_completo": "#F131 ext1\n\n9. Grid no CSS\n=3. Definindo as linhas da Grade - Indexado por @DevWorldHub",
     "tamanho_mb": 95.4,
     "duracao": 0
   },
-  "css-F130": {
+  "html11-F130": {
     "message_id": 131,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F130 2. Como usar o Grid\n\n9. Grid no CSS",
+    "titulo_completo": "#F130 ext1\n\n9. Grid no CSS\n=2. Como usar o Grid - Indexado por @DevWorldHub",
     "tamanho_mb": 64.4,
     "duracao": 0
   },
-  "css-F129": {
+  "html11-F129": {
     "message_id": 130,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F129 1. Apresentação do Módulo\n\n9. Grid no CSS",
+    "titulo_completo": "#F129 ext1\n\n9. Grid no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 10.3,
     "duracao": 0
   },
-  "css-F128": {
+  "html11-F128": {
     "message_id": 129,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F128 13. Desafio 2 - Gabarito\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F128 ext1\n\n8. Componentes Personalizados no HTML\n=13. Desafio 2 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 236.9,
     "duracao": 0
   },
-  "css-F127": {
+  "html11-F127": {
     "message_id": 128,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F127 12. Desafio 2 - Criando o Popup da Home da Hashtag\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F127 ext1\n\n8. Componentes Personalizados no HTML\n=12. Desafio 2 - Criando o Popup da Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 15.96,
     "duracao": 0
   },
-  "css-F126": {
+  "html11-F126": {
     "message_id": 127,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F126 11. Carrossel - Resolução 22\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F126 ext1\n\n8. Componentes Personalizados no HTML\n=11. Carrossel - Resolução 22 - Indexado por @DevWorldHub",
     "tamanho_mb": 179.02,
     "duracao": 0
   },
-  "css-F125": {
+  "html11-F125": {
     "message_id": 126,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F125 10. Carrossel - Resolução 12\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F125 ext1\n\n8. Componentes Personalizados no HTML\n=10. Carrossel - Resolução 12 - Indexado por @DevWorldHub",
     "tamanho_mb": 448.29,
     "duracao": 0
   },
-  "css-F124": {
+  "html11-F124": {
     "message_id": 125,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F124 9. Carrossel - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F124 ext1\n\n8. Componentes Personalizados no HTML\n=9. Carrossel - Apresentando o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 17.74,
     "duracao": 0
   },
-  "css-F123": {
+  "html11-F123": {
     "message_id": 124,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F123 8. Popup - Resolução\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F123 ext1\n\n8. Componentes Personalizados no HTML\n=8. Popup - Resolução - Indexado por @DevWorldHub",
     "tamanho_mb": 456.1,
     "duracao": 0
   },
-  "css-F122": {
+  "html11-F122": {
     "message_id": 123,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F122 7. Popup - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F122 ext1\n\n8. Componentes Personalizados no HTML\n=7. Popup - Apresentando o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 13.56,
     "duracao": 0
   },
-  "css-F121": {
+  "html11-F121": {
     "message_id": 122,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F121 6. Acordeão - Resolução\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F121 ext1\n\n8. Componentes Personalizados no HTML\n=6. Acordeão - Resolução - Indexado por @DevWorldHub",
     "tamanho_mb": 283.53,
     "duracao": 0
   },
-  "css-F120": {
+  "html11-F120": {
     "message_id": 121,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F120 5. Acordeão - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F120 ext1\n\n8. Componentes Personalizados no HTML\n=5. Acordeão - Apresentando o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 28.06,
     "duracao": 0
   },
-  "css-F119": {
+  "html11-F119": {
     "message_id": 120,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F119 4. Paginação - Resolução 22 + CSS Nesting\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F119 ext1\n\n8. Componentes Personalizados no HTML\n=4. Paginação - Resolução 22 + CSS Nesting - Indexado por @DevWorldHub",
     "tamanho_mb": 109.09,
     "duracao": 0
   },
-  "css-F118": {
+  "html11-F118": {
     "message_id": 119,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F118 3. Paginação - Resolução 12\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F118 ext1\n\n8. Componentes Personalizados no HTML\n=3. Paginação - Resolução 12 - Indexado por @DevWorldHub",
     "tamanho_mb": 205.48,
     "duracao": 0
   },
-  "css-F117": {
+  "html11-F117": {
     "message_id": 118,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F117 2. Paginação - Apresentando o Desafio\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F117 ext1\n\n8. Componentes Personalizados no HTML\n=2. Paginação - Apresentando o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 10.7,
     "duracao": 0
   },
-  "css-F116": {
+  "html11-F116": {
     "message_id": 117,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F116 1. Apresentação do Módulo\n\n8. Componentes Personalizados no HTML",
+    "titulo_completo": "#F116 ext1\n\n8. Componentes Personalizados no HTML\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 41.89,
     "duracao": 0
   },
-  "css-F115": {
+  "html11-F115": {
     "message_id": 116,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F115 19. Desafio 2 - Flexbox no Rodapé\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F115 ext1\n\n7. Flexbox no CSS\n=19. Desafio 2 - Flexbox no Rodapé - Indexado por @DevWorldHub",
     "tamanho_mb": 267.72,
     "duracao": 0
   },
-  "css-F114": {
+  "html11-F114": {
     "message_id": 115,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F114 18. Desafio 2 - Flexbox na Seção Minicurso\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F114 ext1\n\n7. Flexbox no CSS\n=18. Desafio 2 - Flexbox na Seção Minicurso - Indexado por @DevWorldHub",
     "tamanho_mb": 92.51,
     "duracao": 0
   },
-  "css-F113": {
+  "html11-F113": {
     "message_id": 114,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F113 17. Desafio 2 - Flexbox na Seção Como ajudar\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F113 ext1\n\n7. Flexbox no CSS\n=17. Desafio 2 - Flexbox na Seção Como ajudar - Indexado por @DevWorldHub",
     "tamanho_mb": 142.59,
     "duracao": 0
   },
-  "css-F112": {
+  "html11-F112": {
     "message_id": 113,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F112 16. Desafio 2 - Flexbox na Blog da Hashtag\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F112 ext1\n\n7. Flexbox no CSS\n=16. Desafio 2 - Flexbox na Blog da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 154.87,
     "duracao": 0
   },
-  "css-F111": {
+  "html11-F111": {
     "message_id": 112,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F111 15. Desafio 2 - Flexbox na Seção Na mídia\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F111 ext1\n\n7. Flexbox no CSS\n=15. Desafio 2 - Flexbox na Seção Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 45.3,
     "duracao": 0
   },
-  "css-F110": {
+  "html11-F110": {
     "message_id": 111,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F110 14. Desafio 2 - Flexbox na Seção O que falam\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F110 ext1\n\n7. Flexbox no CSS\n=14. Desafio 2 - Flexbox na Seção O que falam - Indexado por @DevWorldHub",
     "tamanho_mb": 122.18,
     "duracao": 0
   },
-  "css-F109": {
+  "html11-F109": {
     "message_id": 110,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F109 13. Desafio 2 - Flexbox na Seção Diferenciais\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F109 ext1\n\n7. Flexbox no CSS\n=13. Desafio 2 - Flexbox na Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 486.22,
     "duracao": 0
   },
-  "css-F108": {
+  "html11-F108": {
     "message_id": 109,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F108 12. Desafio 2 - Flexbox na Seção Conteúdos Gratuitos\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F108 ext1\n\n7. Flexbox no CSS\n=12. Desafio 2 - Flexbox na Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 275.85,
     "duracao": 0
   },
-  "css-F107": {
+  "html11-F107": {
     "message_id": 108,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F107 11. Desafio 2 - Flexbox na Seção Hero\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F107 ext1\n\n7. Flexbox no CSS\n=11. Desafio 2 - Flexbox na Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 167.54,
     "duracao": 0
   },
-  "css-F106": {
+  "html11-F106": {
     "message_id": 107,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F106 10. Desafio 2 - Flexbox no Cabeçalho\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F106 ext1\n\n7. Flexbox no CSS\n=10. Desafio 2 - Flexbox no Cabeçalho - Indexado por @DevWorldHub",
     "tamanho_mb": 346.07,
     "duracao": 0
   },
-  "css-F105": {
+  "html11-F105": {
     "message_id": 106,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F105 9. Desafio 2 - Flexbox na Home da Hashtag\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F105 ext1\n\n7. Flexbox no CSS\n=9. Desafio 2 - Flexbox na Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 11.17,
     "duracao": 0
   },
-  "css-F104": {
+  "html11-F104": {
     "message_id": 105,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F104 8. Desafio 1 - Gabarito\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F104 ext1\n\n7. Flexbox no CSS\n=8. Desafio 1 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 260.9,
     "duracao": 0
   },
-  "css-F103": {
+  "html11-F103": {
     "message_id": 104,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F103 7. Desafio 1 - Construindo Layouts com Flexbox\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F103 ext1\n\n7. Flexbox no CSS\n=7. Desafio 1 - Construindo Layouts com Flexbox - Indexado por @DevWorldHub",
     "tamanho_mb": 32.22,
     "duracao": 0
   },
-  "css-F102": {
+  "html11-F102": {
     "message_id": 103,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F102 6. Alinhamento e Posicionamento dos elementos\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F102 ext1\n\n7. Flexbox no CSS\n=6. Alinhamento e Posicionamento dos elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 250.73,
     "duracao": 0
   },
-  "css-F101": {
+  "html11-F101": {
     "message_id": 102,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F101 5. Tamanho dos elementos\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F101 ext1\n\n7. Flexbox no CSS\n=5. Tamanho dos elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 199.0,
     "duracao": 0
   },
-  "css-F100": {
+  "html11-F100": {
     "message_id": 101,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F100 4. Mudar a direção do Flexbox\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F100 ext1\n\n7. Flexbox no CSS\n=4. Mudar a direção do Flexbox - Indexado por @DevWorldHub",
     "tamanho_mb": 89.91,
     "duracao": 0
   },
-  "css-F099": {
+  "html11-F099": {
     "message_id": 100,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F099 3. Espaçamento entre os elementos\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F099 ext1\n\n7. Flexbox no CSS\n=3. Espaçamento entre os elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 78.06,
     "duracao": 0
   },
-  "css-F098": {
+  "html11-F098": {
     "message_id": 99,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F098 2. O que é e como usar o Flexbox\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F098 ext1\n\n7. Flexbox no CSS\n=2. O que é e como usar o Flexbox - Indexado por @DevWorldHub",
     "tamanho_mb": 121.09,
     "duracao": 0
   },
-  "css-F097": {
+  "html11-F097": {
     "message_id": 98,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F097 1. Apresentação do Módulo\n\n7. Flexbox no CSS",
+    "titulo_completo": "#F097 ext1\n\n7. Flexbox no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 17.4,
     "duracao": 0
   },
-  "css-F096": {
+  "html11-F096": {
     "message_id": 97,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F096 26. Desafio 2 - Aprofundando o Rodapé\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F096 ext1\n\n6. Aprofundando no CSS\n=26. Desafio 2 - Aprofundando o Rodapé - Indexado por @DevWorldHub",
     "tamanho_mb": 360.19,
     "duracao": 0
   },
-  "css-F095": {
+  "html11-F095": {
     "message_id": 96,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F095 25. Desafio 2 - Aprofundando a Seção Minicurso\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F095 ext1\n\n6. Aprofundando no CSS\n=25. Desafio 2 - Aprofundando a Seção Minicurso - Indexado por @DevWorldHub",
     "tamanho_mb": 203.9,
     "duracao": 0
   },
-  "css-F094": {
+  "html11-F094": {
     "message_id": 95,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F094 24. Desafio 2 - Aprofundando a Seção Como ajudar\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F094 ext1\n\n6. Aprofundando no CSS\n=24. Desafio 2 - Aprofundando a Seção Como ajudar - Indexado por @DevWorldHub",
     "tamanho_mb": 258.49,
     "duracao": 0
   },
-  "css-F093": {
+  "html11-F093": {
     "message_id": 94,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F093 23. Desafio 2 - Aprofundando a Blog da Hashtag\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F093 ext1\n\n6. Aprofundando no CSS\n=23. Desafio 2 - Aprofundando a Blog da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 275.99,
     "duracao": 0
   },
-  "css-F092": {
+  "html11-F092": {
     "message_id": 93,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F092 22. Desafio 2 - Aprofundando a Seção Na mídia\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F092 ext1\n\n6. Aprofundando no CSS\n=22. Desafio 2 - Aprofundando a Seção Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 57.65,
     "duracao": 0
   },
-  "css-F091": {
+  "html11-F091": {
     "message_id": 92,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F091 21. Desafio 2 - Aprofundando a Seção O que falam\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F091 ext1\n\n6. Aprofundando no CSS\n=21. Desafio 2 - Aprofundando a Seção O que falam - Indexado por @DevWorldHub",
     "tamanho_mb": 465.48,
     "duracao": 0
   },
-  "css-F090": {
+  "html11-F090": {
     "message_id": 91,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F090 20. Desafio 2 - Aprofundando a Seção Diferenciais\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F090 ext1\n\n6. Aprofundando no CSS\n=20. Desafio 2 - Aprofundando a Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 478.3,
     "duracao": 0
   },
-  "css-F089": {
+  "html11-F089": {
     "message_id": 90,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F089 19. Desafio 2 - Aprofundando a Seção Conteúdos Gratuitos\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F089 ext1\n\n6. Aprofundando no CSS\n=19. Desafio 2 - Aprofundando a Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 430.06,
     "duracao": 0
   },
-  "css-F088": {
+  "html11-F088": {
     "message_id": 89,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F088 18. Desafio 2 - Aprofundando a Seção Hero\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F088 ext1\n\n6. Aprofundando no CSS\n=18. Desafio 2 - Aprofundando a Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 429.15,
     "duracao": 0
   },
-  "css-F087": {
+  "html11-F087": {
     "message_id": 88,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F087 17. Desafio 2 - Aprofundando o Cabeçalho\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F087 ext1\n\n6. Aprofundando no CSS\n=17. Desafio 2 - Aprofundando o Cabeçalho - Indexado por @DevWorldHub",
     "tamanho_mb": 410.48,
     "duracao": 0
   },
-  "css-F086": {
+  "html11-F086": {
     "message_id": 87,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F086 16. Desafio 2 - Aprofundando no Desafio 2\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F086 ext1\n\n6. Aprofundando no CSS\n=16. Desafio 2 - Aprofundando no Desafio 2 - Indexado por @DevWorldHub",
     "tamanho_mb": 35.34,
     "duracao": 0
   },
-  "css-F085": {
+  "html11-F085": {
     "message_id": 86,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F085 15. Desafio 1 - Gabarito\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F085 ext1\n\n6. Aprofundando no CSS\n=15. Desafio 1 - Gabarito - Indexado por @DevWorldHub",
     "tamanho_mb": 320.11,
     "duracao": 0
   },
-  "css-F084": {
+  "html11-F084": {
     "message_id": 85,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F084 14. Desafio 1 - Evoluindo a página de Exercício\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F084 ext1\n\n6. Aprofundando no CSS\n=14. Desafio 1 - Evoluindo a página de Exercício - Indexado por @DevWorldHub",
     "tamanho_mb": 31.32,
     "duracao": 0
   },
-  "css-F083": {
+  "html11-F083": {
     "message_id": 84,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F083 13. Background Color e Image\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F083 ext1\n\n6. Aprofundando no CSS\n=13. Background Color e Image - Indexado por @DevWorldHub",
     "tamanho_mb": 143.55,
     "duracao": 0
   },
-  "css-F082": {
+  "html11-F082": {
     "message_id": 83,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F082 12. Tipos de posicionamento\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F082 ext1\n\n6. Aprofundando no CSS\n=12. Tipos de posicionamento - Indexado por @DevWorldHub",
     "tamanho_mb": 150.55,
     "duracao": 0
   },
-  "css-F081": {
+  "html11-F081": {
     "message_id": 82,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F081 11. Tipos de visualização\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F081 ext1\n\n6. Aprofundando no CSS\n=11. Tipos de visualização - Indexado por @DevWorldHub",
     "tamanho_mb": 127.94,
     "duracao": 0
   },
-  "css-F080": {
+  "html11-F080": {
     "message_id": 81,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F080 10. Elementos arredondados\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F080 ext1\n\n6. Aprofundando no CSS\n=10. Elementos arredondados - Indexado por @DevWorldHub",
     "tamanho_mb": 26.28,
     "duracao": 0
   },
-  "css-F079": {
+  "html11-F079": {
     "message_id": 80,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F079 9. Sombras\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F079 ext1\n\n6. Aprofundando no CSS\n=9. Sombras - Indexado por @DevWorldHub",
     "tamanho_mb": 103.86,
     "duracao": 0
   },
-  "css-F078": {
+  "html11-F078": {
     "message_id": 79,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F078 8. Box Model no CSS\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F078 ext1\n\n6. Aprofundando no CSS\n=8. Box Model no CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 74.43,
     "duracao": 0
   },
-  "css-F077": {
+  "html11-F077": {
     "message_id": 78,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F077 7. Seletor universal e herança de estilos\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F077 ext1\n\n6. Aprofundando no CSS\n=7. Seletor universal e herança de estilos - Indexado por @DevWorldHub",
     "tamanho_mb": 78.18,
     "duracao": 0
   },
-  "css-F076": {
+  "html11-F076": {
     "message_id": 77,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F076 6. Pseudo-elementos\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F076 ext1\n\n6. Aprofundando no CSS\n=6. Pseudo-elementos - Indexado por @DevWorldHub",
     "tamanho_mb": 78.71,
     "duracao": 0
   },
-  "css-F075": {
+  "html11-F075": {
     "message_id": 76,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F075 5. Pseudo-classes\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F075 ext1\n\n6. Aprofundando no CSS\n=5. Pseudo-classes - Indexado por @DevWorldHub",
     "tamanho_mb": 69.17,
     "duracao": 0
   },
-  "css-F074": {
+  "html11-F074": {
     "message_id": 75,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F074 4. Dimensões e unidades no CSS\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F074 ext1\n\n6. Aprofundando no CSS\n=4. Dimensões e unidades no CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 202.94,
     "duracao": 0
   },
-  "css-F073": {
+  "html11-F073": {
     "message_id": 74,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F073 3. Trabalhando com espaçamentos\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F073 ext1\n\n6. Aprofundando no CSS\n=3. Trabalhando com espaçamentos - Indexado por @DevWorldHub",
     "tamanho_mb": 75.64,
     "duracao": 0
   },
-  "css-F072": {
+  "html11-F072": {
     "message_id": 73,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F072 2. Especificidade no CSS\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F072 ext1\n\n6. Aprofundando no CSS\n=2. Especificidade no CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 68.37,
     "duracao": 0
   },
-  "css-F071": {
+  "html11-F071": {
     "message_id": 72,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F071 1. Apresentação do Módulo\n\n6. Aprofundando no CSS",
+    "titulo_completo": "#F071 ext1\n\n6. Aprofundando no CSS\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 19.01,
     "duracao": 0
   },
-  "css-F070": {
+  "html11-F070": {
     "message_id": 71,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F070 19. Desafio 2 - Completando o Rodapé\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F070 ext1\n\n5. Aprofundando no HTML\n=19. Desafio 2 - Completando o Rodapé - Indexado por @DevWorldHub",
     "tamanho_mb": 62.08,
     "duracao": 0
   },
-  "css-F069": {
+  "html11-F069": {
     "message_id": 70,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F069 18. Desafio 2 - Completando a Seção Minicurso\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F069 ext1\n\n5. Aprofundando no HTML\n=18. Desafio 2 - Completando a Seção Minicurso - Indexado por @DevWorldHub",
     "tamanho_mb": 73.04,
     "duracao": 0
   },
-  "css-F068": {
+  "html11-F068": {
     "message_id": 69,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F068 17. Desafio 2 - Completando a Seção Como ajudar\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F068 ext1\n\n5. Aprofundando no HTML\n=17. Desafio 2 - Completando a Seção Como ajudar - Indexado por @DevWorldHub",
     "tamanho_mb": 21.55,
     "duracao": 0
   },
-  "css-F067": {
+  "html11-F067": {
     "message_id": 68,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F067 16. Desafio 2 - Completando a Seção Blog da Hashtag\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F067 ext1\n\n5. Aprofundando no HTML\n=16. Desafio 2 - Completando a Seção Blog da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 31.52,
     "duracao": 0
   },
-  "css-F066": {
+  "html11-F066": {
     "message_id": 67,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F066 15. Desafio 2 - Completando a Seção O que falam e Na mídia\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F066 ext1\n\n5. Aprofundando no HTML\n=15. Desafio 2 - Completando a Seção O que falam e Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 33.83,
     "duracao": 0
   },
-  "css-F065": {
+  "html11-F065": {
     "message_id": 66,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F065 14. Desafio 2 - Completando a Seção Diferenciais\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F065 ext1\n\n5. Aprofundando no HTML\n=14. Desafio 2 - Completando a Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 43.5,
     "duracao": 0
   },
-  "css-F064": {
+  "html11-F064": {
     "message_id": 65,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F064 13. Desafio 2 - Completando a Seção Conteúdos Gratuitos\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F064 ext1\n\n5. Aprofundando no HTML\n=13. Desafio 2 - Completando a Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 64.69,
     "duracao": 0
   },
-  "css-F063": {
+  "html11-F063": {
     "message_id": 64,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F063 12. Desafio 2 - Completando a Seção Hero\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F063 ext1\n\n5. Aprofundando no HTML\n=12. Desafio 2 - Completando a Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 104.07,
     "duracao": 0
   },
-  "css-F062": {
+  "html11-F062": {
     "message_id": 63,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F062 11. Desafio 2 - Completando o Cabeçalho\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F062 ext1\n\n5. Aprofundando no HTML\n=11. Desafio 2 - Completando o Cabeçalho - Indexado por @DevWorldHub",
     "tamanho_mb": 50.94,
     "duracao": 0
   },
-  "css-F061": {
+  "html11-F061": {
     "message_id": 62,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F061 10. Desafio 2 - Explicando as novidades\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F061 ext1\n\n5. Aprofundando no HTML\n=10. Desafio 2 - Explicando as novidades - Indexado por @DevWorldHub",
     "tamanho_mb": 23.57,
     "duracao": 0
   },
-  "css-F060": {
+  "html11-F060": {
     "message_id": 61,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F060 9. Desafio 1 - Construindo juntos\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F060 ext1\n\n5. Aprofundando no HTML\n=9. Desafio 1 - Construindo juntos - Indexado por @DevWorldHub",
     "tamanho_mb": 321.05,
     "duracao": 0
   },
-  "css-F059": {
+  "html11-F059": {
     "message_id": 60,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F059 8. Desafio 1 - Apresentando o Desafio\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F059 ext1\n\n5. Aprofundando no HTML\n=8. Desafio 1 - Apresentando o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 39.3,
     "duracao": 0
   },
-  "css-F058": {
+  "html11-F058": {
     "message_id": 59,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F058 7. iFrames\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F058 ext1\n\n5. Aprofundando no HTML\n=7. iFrames - Indexado por @DevWorldHub",
     "tamanho_mb": 72.89,
     "duracao": 0
   },
-  "css-F057": {
+  "html11-F057": {
     "message_id": 58,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F057 6. Tabelas\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F057 ext1\n\n5. Aprofundando no HTML\n=6. Tabelas - Indexado por @DevWorldHub",
     "tamanho_mb": 124.79,
     "duracao": 0
   },
-  "css-F056": {
+  "html11-F056": {
     "message_id": 57,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F056 5. Formulários\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F056 ext1\n\n5. Aprofundando no HTML\n=5. Formulários - Indexado por @DevWorldHub",
     "tamanho_mb": 135.19,
     "duracao": 0
   },
-  "css-F055": {
+  "html11-F055": {
     "message_id": 56,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F055 4. Entrando mais a fundo na estrutura dos documentos\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F055 ext1\n\n5. Aprofundando no HTML\n=4. Entrando mais a fundo na estrutura dos documentos - Indexado por @DevWorldHub",
     "tamanho_mb": 137.68,
     "duracao": 0
   },
-  "css-F054": {
+  "html11-F054": {
     "message_id": 55,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F054 3. Códigos e Datas\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F054 ext1\n\n5. Aprofundando no HTML\n=3. Códigos e Datas - Indexado por @DevWorldHub",
     "tamanho_mb": 97.04,
     "duracao": 0
   },
-  "css-F053": {
+  "html11-F053": {
     "message_id": 54,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F053 2. Citações, Abreviações e Detalhes de contato\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F053 ext1\n\n5. Aprofundando no HTML\n=2. Citações, Abreviações e Detalhes de contato - Indexado por @DevWorldHub",
     "tamanho_mb": 115.02,
     "duracao": 0
   },
-  "css-F052": {
+  "html11-F052": {
     "message_id": 53,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F052 1. Apresentação do Módulo\n\n5. Aprofundando no HTML",
+    "titulo_completo": "#F052 ext1\n\n5. Aprofundando no HTML\n=1. Apresentação do Módulo - Indexado por @DevWorldHub",
     "tamanho_mb": 35.84,
     "duracao": 0
   },
-  "css-F051": {
+  "html11-F051": {
     "message_id": 52,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F051 20. Desafio 2 - Formatando o Rodapé\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F051 ext1\n\n4. Introdução ao CSS\n=20. Desafio 2 - Formatando o Rodapé - Indexado por @DevWorldHub",
     "tamanho_mb": 99.51,
     "duracao": 0
   },
-  "css-F050": {
+  "html11-F050": {
     "message_id": 51,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F050 19. Desafio 2 - Formatando a Seção Minicurso\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F050 ext1\n\n4. Introdução ao CSS\n=19. Desafio 2 - Formatando a Seção Minicurso - Indexado por @DevWorldHub",
     "tamanho_mb": 36.37,
     "duracao": 0
   },
-  "css-F049": {
+  "html11-F049": {
     "message_id": 50,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F049 18. Desafio 2 - Formatando a Seção Como ajudar\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F049 ext1\n\n4. Introdução ao CSS\n=18. Desafio 2 - Formatando a Seção Como ajudar - Indexado por @DevWorldHub",
     "tamanho_mb": 104.5,
     "duracao": 0
   },
-  "css-F048": {
+  "html11-F048": {
     "message_id": 49,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F048 17. Desafio 2 - Formatando a Seção Blog da Hashtag\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F048 ext1\n\n4. Introdução ao CSS\n=17. Desafio 2 - Formatando a Seção Blog da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 82.42,
     "duracao": 0
   },
-  "css-F047": {
+  "html11-F047": {
     "message_id": 48,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F047 16. Desafio 2 - Formatando a Seção Na mídia\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F047 ext1\n\n4. Introdução ao CSS\n=16. Desafio 2 - Formatando a Seção Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 13.63,
     "duracao": 0
   },
-  "css-F046": {
+  "html11-F046": {
     "message_id": 47,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F046 15. Desafio 2 - Formatando a Seção O que falam\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F046 ext1\n\n4. Introdução ao CSS\n=15. Desafio 2 - Formatando a Seção O que falam - Indexado por @DevWorldHub",
     "tamanho_mb": 62.99,
     "duracao": 0
   },
-  "css-F045": {
+  "html11-F045": {
     "message_id": 46,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F045 14. Desafio 2 - Formatando a Seção Diferenciais\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F045 ext1\n\n4. Introdução ao CSS\n=14. Desafio 2 - Formatando a Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 150.39,
     "duracao": 0
   },
-  "css-F044": {
+  "html11-F044": {
     "message_id": 45,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F044 13. Desafio 2 - Formatando a Seção Conteúdos Gratuitos\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F044 ext1\n\n4. Introdução ao CSS\n=13. Desafio 2 - Formatando a Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 143.0,
     "duracao": 0
   },
-  "css-F043": {
+  "html11-F043": {
     "message_id": 44,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F043 12. Desafio 2 - Formatando a Seção Hero\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F043 ext1\n\n4. Introdução ao CSS\n=12. Desafio 2 - Formatando a Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 88.7,
     "duracao": 0
   },
-  "css-F042": {
+  "html11-F042": {
     "message_id": 43,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F042 11. Desafio 2 - Formatando o Cabeçalho\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F042 ext1\n\n4. Introdução ao CSS\n=11. Desafio 2 - Formatando o Cabeçalho - Indexado por @DevWorldHub",
     "tamanho_mb": 192.79,
     "duracao": 0
   },
-  "css-F041": {
+  "html11-F041": {
     "message_id": 42,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F041 10. Desafio 2 - Formatando a Home da Hashtag\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F041 ext1\n\n4. Introdução ao CSS\n=10. Desafio 2 - Formatando a Home da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 56.38,
     "duracao": 0
   },
-  "css-F040": {
+  "html11-F040": {
     "message_id": 41,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F040 9. Desafio 1 - Resolvendo o Desafio\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F040 ext1\n\n4. Introdução ao CSS\n=9. Desafio 1 - Resolvendo o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 158.22,
     "duracao": 0
   },
-  "css-F039": {
+  "html11-F039": {
     "message_id": 40,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F039 8. Desafio 1 - Formatando uma página em HTML\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F039 ext1\n\n4. Introdução ao CSS\n=8. Desafio 1 - Formatando uma página em HTML - Indexado por @DevWorldHub",
     "tamanho_mb": 40.15,
     "duracao": 0
   },
-  "css-F038": {
+  "html11-F038": {
     "message_id": 39,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F038 7. Estilizando hiperlinks\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F038 ext1\n\n4. Introdução ao CSS\n=7. Estilizando hiperlinks - Indexado por @DevWorldHub",
     "tamanho_mb": 87.34,
     "duracao": 0
   },
-  "css-F037": {
+  "html11-F037": {
     "message_id": 38,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F037 6. Trabalhando com cores\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F037 ext1\n\n4. Introdução ao CSS\n=6. Trabalhando com cores - Indexado por @DevWorldHub",
     "tamanho_mb": 115.66,
     "duracao": 0
   },
-  "css-F036": {
+  "html11-F036": {
     "message_id": 37,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F036 5. Estilizando textos\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F036 ext1\n\n4. Introdução ao CSS\n=5. Estilizando textos - Indexado por @DevWorldHub",
     "tamanho_mb": 228.35,
     "duracao": 0
   },
-  "css-F035": {
+  "html11-F035": {
     "message_id": 36,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F035 4. Combinando seletores\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F035 ext1\n\n4. Introdução ao CSS\n=4. Combinando seletores - Indexado por @DevWorldHub",
     "tamanho_mb": 123.36,
     "duracao": 0
   },
-  "css-F034": {
+  "html11-F034": {
     "message_id": 35,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F034 3. Seletores no CSS\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F034 ext1\n\n4. Introdução ao CSS\n=3. Seletores no CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 113.09,
     "duracao": 0
   },
-  "css-F033": {
+  "html11-F033": {
     "message_id": 34,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F033 2. As três formas de escrever CSS\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F033 ext1\n\n4. Introdução ao CSS\n=2. As três formas de escrever CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 102.41,
     "duracao": 0
   },
-  "css-F032": {
+  "html11-F032": {
     "message_id": 33,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F032 1. O que é CSS\n\n4. Introdução ao CSS",
+    "titulo_completo": "#F032 ext1\n\n4. Introdução ao CSS\n=1. O que é CSS - Indexado por @DevWorldHub",
     "tamanho_mb": 26.47,
     "duracao": 0
   },
-  "css-F031": {
+  "html11-F031": {
     "message_id": 32,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F031 21. Desafio 2 - Criando o Rodapé\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F031 ext1\n\n3. Introdução ao HTML\n=21. Desafio 2 - Criando o Rodapé - Indexado por @DevWorldHub",
     "tamanho_mb": 143.61,
     "duracao": 0
   },
-  "css-F030": {
+  "html11-F030": {
     "message_id": 31,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F030 20. Desafio 2 - Criando a Seção Minicurso\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F030 ext1\n\n3. Introdução ao HTML\n=20. Desafio 2 - Criando a Seção Minicurso - Indexado por @DevWorldHub",
     "tamanho_mb": 21.17,
     "duracao": 0
   },
-  "css-F029": {
+  "html11-F029": {
     "message_id": 30,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F029 19. Desafio 2 - Criando a Seção Como ajudar\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F029 ext1\n\n3. Introdução ao HTML\n=19. Desafio 2 - Criando a Seção Como ajudar - Indexado por @DevWorldHub",
     "tamanho_mb": 50.0,
     "duracao": 0
   },
-  "css-F028": {
+  "html11-F028": {
     "message_id": 29,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F028 18. Desafio 2 - Criando a Seção Blog da Hashtag\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F028 ext1\n\n3. Introdução ao HTML\n=18. Desafio 2 - Criando a Seção Blog da Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 110.9,
     "duracao": 0
   },
-  "css-F027": {
+  "html11-F027": {
     "message_id": 28,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F027 17. Desafio 2 - Criando a Seção Na mídia\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F027 ext1\n\n3. Introdução ao HTML\n=17. Desafio 2 - Criando a Seção Na mídia - Indexado por @DevWorldHub",
     "tamanho_mb": 18.84,
     "duracao": 0
   },
-  "css-F026": {
+  "html11-F026": {
     "message_id": 27,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F026 16. Desafio 2 - Criando a Seção O que falam\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F026 ext1\n\n3. Introdução ao HTML\n=16. Desafio 2 - Criando a Seção O que falam - Indexado por @DevWorldHub",
     "tamanho_mb": 52.17,
     "duracao": 0
   },
-  "css-F025": {
+  "html11-F025": {
     "message_id": 26,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F025 15. Desafio 2 - Criando a Seção Diferenciais\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F025 ext1\n\n3. Introdução ao HTML\n=15. Desafio 2 - Criando a Seção Diferenciais - Indexado por @DevWorldHub",
     "tamanho_mb": 125.6,
     "duracao": 0
   },
-  "css-F024": {
+  "html11-F024": {
     "message_id": 25,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F024 14. Desafio 2 - Criando a Seção Conteúdos Gratuitos\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F024 ext1\n\n3. Introdução ao HTML\n=14. Desafio 2 - Criando a Seção Conteúdos Gratuitos - Indexado por @DevWorldHub",
     "tamanho_mb": 185.35,
     "duracao": 0
   },
-  "css-F023": {
+  "html11-F023": {
     "message_id": 24,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F023 13. Desafio 2 - Criando a Seção Hero\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F023 ext1\n\n3. Introdução ao HTML\n=13. Desafio 2 - Criando a Seção Hero - Indexado por @DevWorldHub",
     "tamanho_mb": 32.79,
     "duracao": 0
   },
-  "css-F022": {
+  "html11-F022": {
     "message_id": 23,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F022 12. Desafio 2 - Criando o Cabeçalho\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F022 ext1\n\n3. Introdução ao HTML\n=12. Desafio 2 - Criando o Cabeçalho - Indexado por @DevWorldHub",
     "tamanho_mb": 233.47,
     "duracao": 0
   },
-  "css-F021": {
+  "html11-F021": {
     "message_id": 22,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F021 11. Desafio 2 - Home da Hashtag Treinamentos\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F021 ext1\n\n3. Introdução ao HTML\n=11. Desafio 2 - Home da Hashtag Treinamentos - Indexado por @DevWorldHub",
     "tamanho_mb": 73.84,
     "duracao": 0
   },
-  "css-F020": {
+  "html11-F020": {
     "message_id": 21,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F020 10. Desafio 1 - Construindo o Desafio do Zero\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F020 ext1\n\n3. Introdução ao HTML\n=10. Desafio 1 - Construindo o Desafio do Zero - Indexado por @DevWorldHub",
     "tamanho_mb": 213.79,
     "duracao": 0
   },
-  "css-F019": {
+  "html11-F019": {
     "message_id": 20,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F019 9. Desafio 1 - Apresentando o Desafio\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F019 ext1\n\n3. Introdução ao HTML\n=9. Desafio 1 - Apresentando o Desafio - Indexado por @DevWorldHub",
     "tamanho_mb": 77.5,
     "duracao": 0
   },
-  "css-F018": {
+  "html11-F018": {
     "message_id": 19,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F018 8. Ferramentas do Programador\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F018 ext1\n\n3. Introdução ao HTML\n=8. Ferramentas do Programador - Indexado por @DevWorldHub",
     "tamanho_mb": 47.96,
     "duracao": 0
   },
-  "css-F017": {
+  "html11-F017": {
     "message_id": 18,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F017 7. Imagens e seus atributos no HTML\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F017 ext1\n\n3. Introdução ao HTML\n=7. Imagens e seus atributos no HTML - Indexado por @DevWorldHub",
     "tamanho_mb": 81.19,
     "duracao": 0
   },
-  "css-F016": {
+  "html11-F016": {
     "message_id": 17,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F016 6. Hiperlinks\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F016 ext1\n\n3. Introdução ao HTML\n=6. Hiperlinks - Indexado por @DevWorldHub",
     "tamanho_mb": 158.38,
     "duracao": 0
   },
-  "css-F015": {
+  "html11-F015": {
     "message_id": 16,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F015 5. Listas ordenadas e não ordenadas\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F015 ext1\n\n3. Introdução ao HTML\n=5. Listas ordenadas e não ordenadas - Indexado por @DevWorldHub",
     "tamanho_mb": 42.28,
     "duracao": 0
   },
-  "css-F014": {
+  "html11-F014": {
     "message_id": 15,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F014 4. Ênfase, Importância e Formatação de Textos\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F014 ext1\n\n3. Introdução ao HTML\n=4. Ênfase, Importância e Formatação de Textos - Indexado por @DevWorldHub",
     "tamanho_mb": 80.38,
     "duracao": 0
   },
-  "css-F013": {
+  "html11-F013": {
     "message_id": 14,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F013 3. Elementos de texto\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F013 ext1\n\n3. Introdução ao HTML\n=3. Elementos de texto - Indexado por @DevWorldHub",
     "tamanho_mb": 87.24,
     "duracao": 0
   },
-  "css-F012": {
+  "html11-F012": {
     "message_id": 13,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F012 2. Estrutura de um documento HTML\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F012 ext1\n\n3. Introdução ao HTML\n=2. Estrutura de um documento HTML - Indexado por @DevWorldHub",
     "tamanho_mb": 113.59,
     "duracao": 0
   },
-  "css-F011": {
+  "html11-F011": {
     "message_id": 12,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F011 1. O que é o HTML\n\n3. Introdução ao HTML",
+    "titulo_completo": "#F011 ext1\n\n3. Introdução ao HTML\n=1. O que é o HTML - Indexado por @DevWorldHub",
     "tamanho_mb": 19.96,
     "duracao": 0
   },
-  "css-F010": {
+  "html11-F010": {
     "message_id": 11,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F010 3. 2 dicas para todo programador\n\n2. Boas vindas e configurações iniciais",
+    "titulo_completo": "#F010 ext1\n\n2. Boas vindas e configurações iniciais\n=3. 2 dicas para todo programador - Indexado por @DevWorldHub",
     "tamanho_mb": 64.09,
     "duracao": 0
   },
-  "css-F009": {
+  "html11-F009": {
     "message_id": 10,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F009 2. Baixando e configurando nosso editor de códigos\n\n2. Boas vindas e configurações iniciais",
+    "titulo_completo": "#F009 ext1\n\n2. Boas vindas e configurações iniciais\n=2. Baixando e configurando nosso editor de códigos - Indexado por @DevWorldHub",
     "tamanho_mb": 111.31,
     "duracao": 0
   },
-  "css-F008": {
+  "html11-F008": {
     "message_id": 9,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F008 1. O que é Desenvolvimento Web\n\n2. Boas vindas e configurações iniciais",
+    "titulo_completo": "#F008 ext1\n\n2. Boas vindas e configurações iniciais\n=1. O que é Desenvolvimento Web - Indexado por @DevWorldHub",
     "tamanho_mb": 106.32,
     "duracao": 0
   },
-  "css-F007": {
+  "html11-F007": {
     "message_id": 8,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F007 7. Grupo do Facebook do HTML e CSS Impressionador\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F007 ext1\n\n1. Introdução (Assista antes de começar)\n=7. Grupo do Facebook do HTML e CSS Impressionador - Indexado por @DevWorldHub",
     "tamanho_mb": 25.43,
     "duracao": 0
   },
-  "css-F006": {
+  "html11-F006": {
     "message_id": 7,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F006 6. Suporte Hashtag\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F006 ext1\n\n1. Introdução (Assista antes de começar)\n=6. Suporte Hashtag - Indexado por @DevWorldHub",
     "tamanho_mb": 16.51,
     "duracao": 0
   },
-  "css-F005": {
+  "html11-F005": {
     "message_id": 6,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F005 5. Como funciona a garantia\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F005 ext1\n\n1. Introdução (Assista antes de começar)\n=5. Como funciona a garantia - Indexado por @DevWorldHub",
     "tamanho_mb": 9.67,
     "duracao": 0
   },
-  "css-F004": {
+  "html11-F004": {
     "message_id": 5,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F004 4. Como emitir o certificado\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F004 ext1\n\n1. Introdução (Assista antes de começar)\n=4. Como emitir o certificado - Indexado por @DevWorldHub",
     "tamanho_mb": 31.67,
     "duracao": 0
   },
-  "css-F003": {
+  "html11-F003": {
     "message_id": 4,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F003 3. Como baixar os arquivos e a apostila\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F003 ext1\n\n1. Introdução (Assista antes de começar)\n=3. Como baixar os arquivos e a apostila - Indexado por @DevWorldHub",
     "tamanho_mb": 6.5,
     "duracao": 0
   },
-  "css-F002": {
+  "html11-F002": {
     "message_id": 3,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F002 2. Como tirar suas dúvidas\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F002 ext1\n\n1. Introdução (Assista antes de começar)\n=2. Como tirar suas dúvidas - Indexado por @DevWorldHub",
     "tamanho_mb": 52.29,
     "duracao": 0
   },
-  "css-F001": {
+  "html11-F001": {
     "message_id": 2,
     "channel_id": -1002070133804,
-    "titulo_completo": "#F001 1. Como assistir as aulas\n\n1. Introdução (Assista antes de começar)",
+    "titulo_completo": "#F001 ext1\n\n1. Introdução (Assista antes de começar)\n=1. Como assistir as aulas - Indexado por @DevWorldHub",
     "tamanho_mb": 58.13,
+    "duracao": 0
+  },
+  "html-F220": {
+    "message_id": 219,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F220 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F219": {
+    "message_id": 218,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F219 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F218": {
+    "message_id": 217,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F218 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F216": {
+    "message_id": 216,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F216 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F214": {
+    "message_id": 215,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F214 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F213": {
+    "message_id": 214,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F213 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F212": {
+    "message_id": 213,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F212 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F211": {
+    "message_id": 212,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F211 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F210": {
+    "message_id": 211,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F210 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F209": {
+    "message_id": 210,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F209 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F208": {
+    "message_id": 209,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F208 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F207": {
+    "message_id": 208,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F207 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F206": {
+    "message_id": 207,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F206 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F205": {
+    "message_id": 206,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F205 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F204": {
+    "message_id": 205,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F204 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F203": {
+    "message_id": 204,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F203 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F202": {
+    "message_id": 203,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F202 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F201": {
+    "message_id": 202,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F201 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F200": {
+    "message_id": 201,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F200 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F199": {
+    "message_id": 200,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F199 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F198": {
+    "message_id": 199,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F198 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F197": {
+    "message_id": 198,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F197 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F196": {
+    "message_id": 197,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F196 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F195": {
+    "message_id": 196,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F195 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F194": {
+    "message_id": 195,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F194 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F193": {
+    "message_id": 194,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F193 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F192": {
+    "message_id": 193,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F192 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F191": {
+    "message_id": 192,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F191 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F190": {
+    "message_id": 191,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F190 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F189": {
+    "message_id": 190,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F189 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F188": {
+    "message_id": 189,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F188 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F187": {
+    "message_id": 188,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F187 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F186": {
+    "message_id": 187,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F186 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F185": {
+    "message_id": 186,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F185 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F184": {
+    "message_id": 185,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F184 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F183": {
+    "message_id": 184,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F183 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F182": {
+    "message_id": 183,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F182 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F181": {
+    "message_id": 182,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F181 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F180": {
+    "message_id": 181,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F180 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F179": {
+    "message_id": 180,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F179 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F178": {
+    "message_id": 179,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F178 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F177": {
+    "message_id": 178,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F177 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F176": {
+    "message_id": 177,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F176 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F175": {
+    "message_id": 176,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F175 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F174": {
+    "message_id": 175,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F174 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F173": {
+    "message_id": 174,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F173 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F172": {
+    "message_id": 173,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F172 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F171": {
+    "message_id": 172,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F171 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F170": {
+    "message_id": 171,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F170 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F169": {
+    "message_id": 170,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F169 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F168": {
+    "message_id": 169,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F168 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F167": {
+    "message_id": 168,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F167 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F166": {
+    "message_id": 167,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F166 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F165": {
+    "message_id": 166,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F165 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F164": {
+    "message_id": 165,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F164 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F163": {
+    "message_id": 164,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F163 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F162": {
+    "message_id": 163,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F162 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F161": {
+    "message_id": 162,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F161 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F160": {
+    "message_id": 161,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F160 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F159": {
+    "message_id": 160,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F159 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F158": {
+    "message_id": 159,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F158 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F157": {
+    "message_id": 158,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F157 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F156": {
+    "message_id": 157,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F156 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F155": {
+    "message_id": 156,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F155 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F154": {
+    "message_id": 155,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F154 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F153": {
+    "message_id": 154,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F153 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F152": {
+    "message_id": 153,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F152 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F151": {
+    "message_id": 152,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F151 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F150": {
+    "message_id": 151,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F150 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F149": {
+    "message_id": 150,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F149 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F148": {
+    "message_id": 149,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F148 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F147": {
+    "message_id": 148,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F147 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F146": {
+    "message_id": 147,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F146 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F145": {
+    "message_id": 146,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F145 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F144": {
+    "message_id": 145,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F144 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F143": {
+    "message_id": 144,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F143 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F142": {
+    "message_id": 143,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F142 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F141": {
+    "message_id": 142,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F141 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F140": {
+    "message_id": 141,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F140 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F139": {
+    "message_id": 140,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F139 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F138": {
+    "message_id": 139,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F138 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F137": {
+    "message_id": 138,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F137 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F136": {
+    "message_id": 137,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F136 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F135": {
+    "message_id": 136,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F135 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F134": {
+    "message_id": 135,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F134 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F133": {
+    "message_id": 134,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F133 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F132": {
+    "message_id": 133,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F132 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F131": {
+    "message_id": 132,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F131 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F130": {
+    "message_id": 131,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F130 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F129": {
+    "message_id": 130,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F129 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F128": {
+    "message_id": 129,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F128 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F127": {
+    "message_id": 128,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F127 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F126": {
+    "message_id": 127,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F126 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F125": {
+    "message_id": 126,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F125 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F124": {
+    "message_id": 125,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F124 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F123": {
+    "message_id": 124,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F123 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F122": {
+    "message_id": 123,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F122 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F121": {
+    "message_id": 122,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F121 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F120": {
+    "message_id": 121,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F120 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F119": {
+    "message_id": 120,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F119 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F118": {
+    "message_id": 119,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F118 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F117": {
+    "message_id": 118,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F117 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F116": {
+    "message_id": 117,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F116 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F115": {
+    "message_id": 116,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F115 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F114": {
+    "message_id": 115,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F114 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F113": {
+    "message_id": 114,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F113 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F112": {
+    "message_id": 113,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F112 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F111": {
+    "message_id": 112,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F111 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F110": {
+    "message_id": 111,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F110 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F109": {
+    "message_id": 110,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F109 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F108": {
+    "message_id": 109,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F108 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F107": {
+    "message_id": 108,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F107 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F106": {
+    "message_id": 107,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F106 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F105": {
+    "message_id": 106,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F105 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F104": {
+    "message_id": 105,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F104 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F103": {
+    "message_id": 104,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F103 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F102": {
+    "message_id": 103,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F102 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F101": {
+    "message_id": 102,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F101 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F100": {
+    "message_id": 101,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F100 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F99": {
+    "message_id": 100,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F99 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F98": {
+    "message_id": 99,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F98 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F97": {
+    "message_id": 98,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F97 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F96": {
+    "message_id": 97,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F96 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F95": {
+    "message_id": 96,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F95 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F94": {
+    "message_id": 95,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F94 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F93": {
+    "message_id": 94,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F93 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F92": {
+    "message_id": 93,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F92 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F91": {
+    "message_id": 92,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F91 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F90": {
+    "message_id": 91,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F90 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F89": {
+    "message_id": 90,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F89 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F88": {
+    "message_id": 89,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F88 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F87": {
+    "message_id": 88,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F87 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F86": {
+    "message_id": 87,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F86 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F85": {
+    "message_id": 86,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F85 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F84": {
+    "message_id": 85,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F84 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F83": {
+    "message_id": 84,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F83 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F82": {
+    "message_id": 83,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F82 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F81": {
+    "message_id": 82,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F81 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F80": {
+    "message_id": 81,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F80 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F79": {
+    "message_id": 80,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F79 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F78": {
+    "message_id": 79,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F78 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F77": {
+    "message_id": 78,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F77 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F76": {
+    "message_id": 77,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F76 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F75": {
+    "message_id": 76,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F75 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F74": {
+    "message_id": 75,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F74 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F73": {
+    "message_id": 74,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F73 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F72": {
+    "message_id": 73,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F72 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F71": {
+    "message_id": 72,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F71 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F70": {
+    "message_id": 71,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F70 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F69": {
+    "message_id": 70,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F69 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F68": {
+    "message_id": 69,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F68 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F67": {
+    "message_id": 68,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F67 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F66": {
+    "message_id": 67,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F66 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F65": {
+    "message_id": 66,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F65 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F64": {
+    "message_id": 65,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F64 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F63": {
+    "message_id": 64,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F63 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F62": {
+    "message_id": 63,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F62 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F61": {
+    "message_id": 62,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F61 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F60": {
+    "message_id": 61,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F60 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F59": {
+    "message_id": 60,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F59 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F58": {
+    "message_id": 59,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F58 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F57": {
+    "message_id": 58,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F57 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F56": {
+    "message_id": 57,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F56 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F55": {
+    "message_id": 56,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F55 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F54": {
+    "message_id": 55,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F54 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F53": {
+    "message_id": 54,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F53 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F52": {
+    "message_id": 53,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F52 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F51": {
+    "message_id": 52,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F51 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F50": {
+    "message_id": 51,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F50 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F49": {
+    "message_id": 50,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F49 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F48": {
+    "message_id": 49,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F48 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F47": {
+    "message_id": 48,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F47 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F46": {
+    "message_id": 47,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F46 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F45": {
+    "message_id": 46,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F45 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F44": {
+    "message_id": 45,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F44 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F43": {
+    "message_id": 44,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F43 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F42": {
+    "message_id": 43,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F42 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F41": {
+    "message_id": 42,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F41 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F40": {
+    "message_id": 41,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F40 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F39": {
+    "message_id": 40,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F39 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F38": {
+    "message_id": 39,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F38 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F37": {
+    "message_id": 38,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F37 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F36": {
+    "message_id": 37,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F36 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F35": {
+    "message_id": 36,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F35 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F34": {
+    "message_id": 35,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F34 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F33": {
+    "message_id": 34,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F33 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F32": {
+    "message_id": 33,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F32 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F31": {
+    "message_id": 32,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F31 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F30": {
+    "message_id": 31,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F30 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F29": {
+    "message_id": 30,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F29 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F28": {
+    "message_id": 29,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F28 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F27": {
+    "message_id": 28,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F27 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F26": {
+    "message_id": 27,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F26 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F25": {
+    "message_id": 26,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F25 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F24": {
+    "message_id": 25,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F24 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F23": {
+    "message_id": 24,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F23 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F22": {
+    "message_id": 23,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F22 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F21": {
+    "message_id": 22,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F21 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F20": {
+    "message_id": 21,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F20 video.mp4",
+    "tamanho_mb": 77.5,
+    "duracao": 0
+  },
+  "html-F19": {
+    "message_id": 20,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F19 video.mp4",
+    "tamanho_mb": 47.96,
+    "duracao": 0
+  },
+  "html-F18": {
+    "message_id": 19,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F18 video.mp4",
+    "tamanho_mb": 81.19,
+    "duracao": 0
+  },
+  "html-F17": {
+    "message_id": 18,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F17 video.mp4",
+    "tamanho_mb": 158.38,
+    "duracao": 0
+  },
+  "html-F16": {
+    "message_id": 17,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F16 video.mp4",
+    "tamanho_mb": 42.28,
+    "duracao": 0
+  },
+  "html-F15": {
+    "message_id": 16,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F15 video.mp4",
+    "tamanho_mb": 80.38,
+    "duracao": 0
+  },
+  "html-F14": {
+    "message_id": 15,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F14 video.mp4",
+    "tamanho_mb": 87.24,
+    "duracao": 0
+  },
+  "html-F13": {
+    "message_id": 14,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F13 video.mp4",
+    "tamanho_mb": 113.59,
+    "duracao": 0
+  },
+  "html-F12": {
+    "message_id": 13,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F12 video.mp4",
+    "tamanho_mb": 19.96,
+    "duracao": 0
+  },
+  "html-F11": {
+    "message_id": 12,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F11 video.mp4",
+    "tamanho_mb": 111.31,
+    "duracao": 0
+  },
+  "html-F10": {
+    "message_id": 11,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F10 video.mp4",
+    "tamanho_mb": 64.09,
+    "duracao": 0
+  },
+  "html-F09": {
+    "message_id": 10,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F09 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F08": {
+    "message_id": 9,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F08 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F07": {
+    "message_id": 8,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F07 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F06": {
+    "message_id": 7,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F06 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F05": {
+    "message_id": 6,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F05 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F04": {
+    "message_id": 5,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F04 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F03": {
+    "message_id": 4,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F03 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F02": {
+    "message_id": 3,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F02 video.mp4",
+    "tamanho_mb": 76.26,
+    "duracao": 0
+  },
+  "html-F01": {
+    "message_id": 2,
+    "channel_id": -1002417234174,
+    "titulo_completo": "#F01 video.mp4",
+    "tamanho_mb": 76.26,
     "duracao": 0
   }
 }
