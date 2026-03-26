@@ -103,7 +103,7 @@ async def prefetch_chunks(message, start_offset: int, channel_id: int, message_i
     if PREFETCH_CHUNKS == 0: return
     
     try:
-        offsets = [start_offset + (RANGE_CHUNK * i) for i in range(1, PREFETCH_CHUNKS + 1)]
+        offsets = [start_offset + (RANGE_CHUNK * i) for i in range(0, PREFETCH_CHUNKS)]
         for offset in offsets:
             if offset >= message.video.size: break
             
@@ -153,6 +153,8 @@ async def stream_generator(message, start_byte: int, end_byte: int, channel_id: 
             if bytes_enviados + len(buffer) >= bytes_para_enviar:
                 restante = bytes_para_enviar - bytes_enviados
                 yield bytes(buffer[:restante])
+                bytes_enviados += restante
+                buffer.clear()
                 break
             
             # Flush parcial para manter o fluxo
@@ -163,7 +165,10 @@ async def stream_generator(message, start_byte: int, end_byte: int, channel_id: 
         
         # Envia o que sobrou
         if buffer and bytes_enviados < bytes_para_enviar:
-            yield bytes(buffer)
+            restante = min(bytes_para_enviar - bytes_enviados, len(buffer))
+            yield bytes(buffer[:restante])
+            bytes_enviados += restante
+            buffer.clear()
             
         background_tasks.add_task(prefetch_chunks, message, end_byte + 1, channel_id, message_id)
                 

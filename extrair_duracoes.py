@@ -17,9 +17,9 @@ SESSION_NAME = 'streamer_session' # Fallback se não usar string session
 
 # Canais conhecidos para facilitar
 CANAIS_PREDEFINIDOS = {
-    "1": {"nome": "LIC", "id": "-1001706373944"},
+    "1": {"nome": "html", "id": "-1002417234174"},
     "2": {"nome": "PBI", "id": "-1001573455897"},
-    "3": {"nome": "CSS", "id": "-1002070133804"}
+    "3": {"nome": "html11", "id": "-1002070133804"}
 }
 
 async def main():

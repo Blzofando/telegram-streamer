@@ -64,33 +64,23 @@ def main():
     novo_dict = {}
     nao_encontrados = 0
 
+    # Extrair o prefixo base do nome do arquivo (ex: duracoes_html11.json -> html11)
+    prefixo_base = arquivo_escolhido.replace("duracoes_", "").replace(".json", "")
+
     for msg_id_str, data in duracoes_originais.items():
-        # A nova modelagem busca cruzar o message_id do json de duracao com o mapeamento
-        # Caso exista no mapeamento, ele usa o código ex: pbi-F001
+        # Agora buscamos o código diretamente no caption, ex: #F001
+        caption = data.get("caption", "")
+        # Regex para pegar o código que começa com #F
+        match = re.search(r'#(F\d+)', caption)
         
-        # O caption no json de duracao contém o código, ex: #F001
-        # E o arquivo extrair_duracoes salvou com a chave sendo o message_id do telegram
-        
-        if msg_id_str in mapping_by_msg_id:
-            codigo = mapping_by_msg_id[msg_id_str]
+        if match:
+            codigo_extraido = match.group(1) # Ex: F001
+            # Monta o código final: prefixo-codigo (ex: html11-F001)
+            codigo = f"{prefixo_base}-{codigo_extraido}"
         else:
-            # Fallback buscando pelo caption caso o message_id do canal das durações
-            # não seja o exato message_id do mapeamento
-            caption = data.get("caption", "")
-            match = re.search(r'#F(\d+)', caption)
-            if match:
-                num = match.group(1)
-                # Tentar achar a chave no mapeamento que termine com F + num
-                codigo = None
-                for key in mapeamento.keys():
-                    if key.endswith(f"-F{num}") or key.endswith(f"F{num}"):
-                        codigo = key
-                        break
-                if not codigo:
-                    # Se mesmo assim não achou, cria uma baseada no nome do aqruivo
-                    # Ex: duracoes_css.json -> css-F001
-                    prefixo = arquivo_escolhido.replace("duracoes_", "").replace(".json", "")
-                    codigo = f"{prefixo}-F{num}"
+            # Fallback caso não encontre no caption (tenta usar o mapeamento se o ID existir lá)
+            if msg_id_str in mapping_by_msg_id:
+                codigo = mapping_by_msg_id[msg_id_str]
             else:
                 nao_encontrados += 1
                 continue
